@@ -1,6 +1,8 @@
 # Transparency Log
 
-## Egypt vault
+## Egypt Vault
 - Address: F1YLmukcxAyZj6zVpi2XaVctmYnuZQB5uHpd3uUpXxr6
-- Verification links: registry/nations.json#Egypt, vault_registry.json#Egypt
-- Notes: TGR locked issuance, ERT founder injection logged.
+- Verification: registry/nations.json#Egypt, vault_registry.json#Egypt
+- Assets: TGR (locked issuance), ERT (founder injection)
+- Status: Active
+- Logged: [2025-11-10] Founder Launch
