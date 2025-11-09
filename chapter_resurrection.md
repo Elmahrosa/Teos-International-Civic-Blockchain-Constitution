@@ -27,3 +27,7 @@
 - Transparency log created for Egypt vault
 - Certification log initiated with version history
 - Integrity checks documented for petition, badges, treasury, and compliance
+## [2025-11-10] Integrity Ledger Dashboard Activated
+- Dashboard created: dashboard/integrity_ledger.json + dashboard/integrity_ledger.md
+- Petition, badges, vaults, and audits unified in one interface
+- Motto enforced: Sign With It
