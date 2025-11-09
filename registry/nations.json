@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Egypt",
+    "authority": "Elmahrosa",
+    "status": "active",
+    "contacts": {"founder": "Ayman Seif"},
+    "compliance_files": [
+      "compliance/countries/egypt.md",
+      "compliance/templates/legal_safety.md"
+    ]
+  }
+]
