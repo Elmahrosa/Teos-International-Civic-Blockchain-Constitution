@@ -18,3 +18,8 @@
 - Roles defined: Citizen, Validator, Founder
 - Badge logic enforced via governance/badge_logic.md
 - Treasury rules committed for vault creation and asset injection
+## [2025-11-10] Onboarding Layer Activated
+- Petition flow committed
+- Badge flow enforced
+- Scripts added: petition_lock.bat, badge_gate.bat, onboard.sh
+- Enforcement: petition-first, badge-gated activation
