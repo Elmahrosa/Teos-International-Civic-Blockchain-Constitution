@@ -44,3 +44,17 @@ Every nation is invited to join under one transparent, petition-first framework.
 
 ## Motto
 **Sign With It** — every action begins with civic petition and badge verification.
+## Linked Civic Ecosystem
+
+The International Civic Blockchain Constitution anchors the following public repos in ritual order:
+
+1. [Teos-Civic-Mixer](https://github.com/Elmahrosa/Teos-Civic-Mixer) — petition-first civic flows  
+2. [FPBE-First-Pimisr-Bank-Elmahrosa](https://github.com/Elmahrosa/FPBE-First-Pimisr-Bank-Elmahrosa) — civic-first banking backbone  
+3. [Digital-Reconstruction-of-Gaza](https://github.com/Elmahrosa/Digital-Reconstruction-of-Gaza) — humanitarian reconstruction  
+4. [ERT-LAUNCH](https://github.com/Elmahrosa/ERT-LAUNCH) — founder token injection  
+5. [ElMahrosa-Pi-Smart-City](https://github.com/Elmahrosa/ElMahrosa-Pi-Smart-City) — Pi SDK urban governance  
+6. [Teos-Gold-Reserve](https://github.com/Elmahrosa/Teos-Gold-Reserve) — gold-backed stability  
+7. [TEOS-AI-Auditor](https://github.com/Elmahrosa/TEOS-AI-Auditor) — transparency enforcement  
+8. [TEOS-NFT-AI-Generator](https://github.com/Elmahrosa/TEOS-NFT-AI-Generator) — NFT minting, royalties, staking  
+9. [salma-unity-care-hospital](https://github.com/Elmahrosa/salma-unity-care-hospital) — social impact and healthcare  
+
