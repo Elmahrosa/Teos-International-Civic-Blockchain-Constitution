@@ -29,3 +29,12 @@
 - Amounts: [tokens, credits, or fees]
 - Status: success / error / pending
 - Notes: rationale or fix applied
+## Founder Proclamation — November 10, 2025
+The International Civic Blockchain Constitution repo is finalized and rebased cleanly.
+- Roadmap added (earn first, anchor later).
+- Registry.json created with 9 civic modules.
+- Compliance and dashboard modules activated.
+- Submodules synced and rebased.
+
+Status: Petition-first, badge-gated, treasury-audited.  
+Global onboarding now open.
