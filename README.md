@@ -157,3 +157,35 @@ Key folders:
 
 ### Non-Financial Notice
 This roadmap describes protocol mechanics and governance flows. It is not financial advice. Contributors must follow local regulations and repo compliance documents.
+# Elmahrousa Civic Resurrection Engine
+
+## Overview
+The Elmahrousa Civic Resurrection Engine is a **petition-first, badge-gated civic platform** designed to anchor Egypt and Gaza as hubs of digital governance. It unifies staking, treasury flows, and contributor dashboards under one transparent constitution repo.
+
+## Built With
+- Python, JavaScript, Solidity
+- Pi SDK, React Native, WebXR, Unity
+- Firebase, Firestore, IPFS
+- MetaMask, WalletConnect, Telegram Bot API
+- AI Auditor, JSON Vault Registry
+
+## Key Features
+- **International Civic Blockchain Constitution Repo**: Petition-first onboarding, badge logic, vault registry, and ritual logging.  
+- **TEOSNFT Platform**: Egyptian-themed NFT minting, trading, staking, and treasury transparency.  
+- **FPBE Bank Backbone**: Custody flows, validator fees, and financial anchor for civic-first deployments.  
+- **Gaza Reconstruction Dashboard**: Badge-gated participation, donation custody, and dual verification for humanitarian impact.  
+- **AI Auditor**: Contributor anomaly detection and reputational scoring.
+
+## Updates During Competition
+- Repo finalization with reproducible clarity.  
+- TEOSNFT staking and royalty flows integrated with Pi SDK.  
+- Gaza Reconstruction dashboard activated with badge-gated onboarding.  
+- FPBE Bank enhanced for custody and validator flows.  
+- AI Auditor integrated for governance integrity.  
+
+## Try It Out
+- Constitution Repo: [International Civic Blockchain Constitution](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution)  
+- Demo Video: [FPBE Technical Overview](https://youtu.be/x_uJ5cTLxxM?si=mFvRSVoRkgkzFXDE)
+
+## License
+Civic-first, open governance license — contributions must comply with petition-first and badge logic enforcement.
