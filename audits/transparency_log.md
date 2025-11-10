@@ -6,3 +6,16 @@
 - Assets: TGR (locked issuance), ERT (founder injection)
 - Status: Active
 - Logged: [2025-11-10] Founder Launch
+## Linked Repos (2025-11-10)
+
+- Teos-Civic-Mixer → petition-first civic flows  
+- FPBE-First-Pimisr-Bank-Elmahrosa → civic-first banking backbone  
+- Digital-Reconstruction-of-Gaza → humanitarian reconstruction  
+- ERT-LAUNCH → founder token injection  
+- ElMahrosa-Pi-Smart-City → Pi SDK urban governance  
+- Teos-Gold-Reserve → gold-backed stability  
+- TEOS-AI-Auditor → transparency enforcement  
+- TEOS-NFT-AI-Generator → NFT minting, royalties, staking  
+- salma-unity-care-hospital → social impact and healthcare  
+
+**Status:** All 9 repos linked under International Constitution hub. Petition-first, badge-gated, treasury-audited.  
