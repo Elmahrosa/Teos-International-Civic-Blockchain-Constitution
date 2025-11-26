@@ -1,7 +1,16 @@
+# 🌐 International Civic Constitution (Pi Network)
+
+A mobile-first, KYC-secured civic constitution and reference implementation for Pi Network.
+
+## Quick start (developer)
+```bash
+git clone https://github.com/Elmahrosa/International-Civic-Pi-Constitution
+cd International-Civic-Pi-Constitution
+# install dev deps if used
+# node scripts/deploy.js --network=testnet
+
 # International-Civic-Blockchain-Constitution
 Global civic-first blockchain constitution. Anchored by Elmahrosa as coordinating authority. Petition-first onboarding, badge enforcement, transparent vault registry, and ritual logging. Every nation invited to join humanity’s digital resurrection under one charter.
-# International Civic Blockchain Constitution
-
 **Owner:** Elmahrosa  
 **Motto:** Sign With It  
 
@@ -205,13 +214,3 @@ All enterprise actions are logged in `chapter_resurrection.md`, verified via bad
 
 For licensing inquiries, contact **Elmahrosa International — Coordinating Authority**.  
 GitHub: [https://github.com/Elmahrosa](https://github.com/Elmahrosa)
-# 🌐 International Civic Constitution (Pi Network)
-
-A mobile-first, KYC-secured civic constitution and reference implementation for Pi Network.
-
-## Quick start (developer)
-```bash
-git clone https://github.com/Elmahrosa/International-Civic-Pi-Constitution
-cd International-Civic-Pi-Constitution
-# install dev deps if used
-# node scripts/deploy.js --network=testnet
