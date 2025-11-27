@@ -36,7 +36,16 @@ export function PiProvider({ children }: { children: ReactNode }) {
         setIsLoading(false)
       }
     } else {
-      // Fallback for non-Pi Browser environment
+      const storedUser = localStorage.getItem("civicchain_user")
+      if (storedUser) {
+        try {
+          const parsedUser = JSON.parse(storedUser)
+          setUser(parsedUser)
+          setIsAuthenticated(true)
+        } catch (err) {
+          console.error("[v0] Failed to parse stored user:", err)
+        }
+      }
       console.log("[v0] Pi SDK not available - using demo mode")
       setIsLoading(false)
     }
@@ -55,19 +64,29 @@ export function PiProvider({ children }: { children: ReactNode }) {
 
         console.log("[v0] Pi authentication successful:", auth)
 
-        setUser({
+        const userData = {
           uid: auth.user.uid,
           username: auth.user.username,
-        })
+        }
+
+        setUser(userData)
         setIsAuthenticated(true)
+        localStorage.setItem("civicchain_user", JSON.stringify(userData))
       } else {
-        // Demo mode for non-Pi Browser
-        console.log("[v0] Demo authentication")
-        setUser({
-          uid: "demo-user-" + Date.now(),
-          username: "Demo User",
-        })
-        setIsAuthenticated(true)
+        const username = prompt("Enter your username (or use aams1969 for founder access):")
+
+        if (username) {
+          const userData = {
+            uid: "demo-user-" + Date.now(),
+            username: username.trim(),
+          }
+
+          setUser(userData)
+          setIsAuthenticated(true)
+          localStorage.setItem("civicchain_user", JSON.stringify(userData))
+        } else {
+          setError("Username required to continue")
+        }
       }
     } catch (err) {
       console.error("[v0] Authentication error:", err)

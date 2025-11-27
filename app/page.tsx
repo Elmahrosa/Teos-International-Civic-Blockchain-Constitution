@@ -5,17 +5,20 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { Wallet, Award, Vote, TrendingUp, Users, FileText, Shield, Pyramid, ExternalLink } from "lucide-react"
+import { Wallet, Award, Vote, TrendingUp, Users, FileText, Shield, Pyramid, ExternalLink, Crown } from "lucide-react"
 import { ConstitutionModal } from "@/components/constitution-modal"
 import { TreasuryDashboard } from "@/components/treasury-dashboard"
 import { BadgeGallery } from "@/components/badge-gallery"
 import { StakingPanel } from "@/components/staking-panel"
+import { FounderDashboard } from "@/components/founder-dashboard"
 import { usePi } from "@/components/pi-provider"
 
 export default function HomePage() {
   const [hasSignedConstitution, setHasSignedConstitution] = useState(false)
   const [showConstitution, setShowConstitution] = useState(true)
   const { user, authenticate, isLoading } = usePi()
+
+  const isFounder = user?.username === "aams1969"
 
   const handleConstitutionSigned = () => {
     setHasSignedConstitution(true)
@@ -30,6 +33,39 @@ export default function HomePage() {
 
   if (!hasSignedConstitution && showConstitution) {
     return <ConstitutionModal onSign={handleConstitutionSigned} />
+  }
+
+  if (isFounder) {
+    return (
+      <div className="min-h-screen bg-background">
+        <header className="border-b border-border bg-card sticky top-0 z-50">
+          <div className="container mx-auto px-4 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
+                <Pyramid className="w-6 h-6 text-primary-foreground" />
+              </div>
+              <div>
+                <h1 className="text-xl font-bold text-primary">CivicChain</h1>
+                <p className="text-xs text-muted-foreground">Pi Network Constitution</p>
+              </div>
+            </div>
+            <div className="flex items-center gap-2">
+              <Badge variant="secondary" className="bg-primary/20 text-primary border-primary">
+                <Crown className="w-3 h-3 mr-1" />
+                Founder
+              </Badge>
+              <Button variant="outline" size="sm" className="gap-2 bg-transparent">
+                <Wallet className="w-4 h-4" />
+                <span className="hidden sm:inline">{user.username}</span>
+              </Button>
+            </div>
+          </div>
+        </header>
+        <main className="container mx-auto px-4 py-6">
+          <FounderDashboard />
+        </main>
+      </div>
+    )
   }
 
   return (
