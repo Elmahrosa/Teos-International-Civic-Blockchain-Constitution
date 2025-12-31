@@ -31,6 +31,16 @@ jobs:
       - name: Run governance tests
         run: npx jest tests/governance.test.js --coverage
 
+      - name: Check for validation errors
+        run: |
+          if [ -f tests/validation_errors.json ] && [ -s tests/validation_errors.json ]; then
+            echo "❌ Governance schema validation errors detected!"
+            cat tests/validation_errors.json
+            exit 1
+          else
+            echo "✅ No governance schema validation errors found."
+          fi
+
       - name: Upload test coverage
         uses: actions/upload-artifact@v3
         with:
