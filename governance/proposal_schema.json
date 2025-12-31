@@ -28,3 +28,17 @@
   },
   "additionalProperties": false
 }
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Governance Proposal",
+  "type": "object",
+  "properties": {
+    "proposer": { "type": "string", "minLength": 1 },
+    "badge": { "type": "string", "minLength": 1 },
+    "proposal": { "type": "string", "minLength": 1 },
+    "type": { "type": "string", "enum": ["upgrade", "vote", "policy", "amendment"] }
+  },
+  "required": ["proposer", "badge", "proposal", "type"],
+  "additionalProperties": false
+}
+
