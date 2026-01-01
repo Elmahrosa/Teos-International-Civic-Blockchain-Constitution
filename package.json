@@ -1,0 +1,16 @@
+{
+  "name": "international-civic-blockchain-constitution",
+  "version": "1.0.0",
+  "description": "Global civic-first blockchain constitution. Anchored by Elmahrosa as coordinating authority. Petition-first onboarding, badge enforcement, transparent vault registry, and ritual logging. Every nation invited to join humanity’s digital resurrection under one charter.\r # International Civic Blockchain Constitution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "jest": "^30.2.0"
+  }
+}
