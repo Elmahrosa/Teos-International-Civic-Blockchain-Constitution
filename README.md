@@ -1,3 +1,20 @@
+# 🌍 International Civic Blockchain Constitution
+## Born in Egypt for the World
+
+This repository contains the **supreme constitutional charter**
+governing the TEOS Sovereign Blockchain Ecosystem.
+
+📜 Authoritative Constitution:
+➡️ [CONSTITUTION.md](./CONSTITUTION.md)
+
+🛂 Contribution & Civic Participation Rules:
+➡️ [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+Governance Root:
+- TEOS-FORGE — https://github.com/Elmahrosa/TEOS-FORGE
+
+🇪🇬 Built in Egypt. Engineered for Nations. Scaled for the World.
+
 ![TEOS Sovereign Standing](https://img.shields.io/badge/Standing-Sovereign%20Original%20—%20Elmahrosa%20International-blue?style=for-the-badge)
 [![License: TESL](https://img.shields.io/badge/License-TESL%20%2B%20PolyForm%20Noncommercial-green?style=for-the-badge)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
 
