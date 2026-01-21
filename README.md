@@ -1,39 +1,92 @@
-﻿![TEOS Sovereign Standing](https://img.shields.io/badge/Standing-Sovereign%20Original%20%E2%80%94%20Elmahrosa%20International-blue?style=for-the-badge)
+![TEOS Sovereign Standing](https://img.shields.io/badge/Standing-Sovereign%20Original%20—%20Elmahrosa%20International-blue?style=for-the-badge)
 [![License: TESL](https://img.shields.io/badge/License-TESL%20%2B%20PolyForm%20Noncommercial-green?style=for-the-badge)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
 
-# 📍 Repo Standing Statement
-
-This repository is a **sovereign original** under **Elmahrosa International — TEOS Egypt**.  
-Governance is anchored in [TEOS-FORGE](https://github.com/Elmahrosa/TEOS-FORGE).  
-Commercial use requires written approval from Elmahrosa International.  
-
-⚖️ Protected under dual license: PolyForm Noncommercial + TEOS Egypt Sovereign License (TESL).
-
-# 📍 Repo Standing Statement
-
-This repository is a **sovereign original** under **Elmahrosa International — TEOS Egypt**.  
-Governance is anchored in [TEOS-FORGE](https://github.com/Elmahrosa/TEOS-FORGE).  
-Commercial use requires written approval from Elmahrosa International.  
-
-⚖️ Protected under dual license: PolyForm Noncommercial + TEOS Egypt Sovereign License (TESL).
-
-# ?? Repo Standing Statement
-
-This repository is a **sovereign original** under **Elmahrosa International � TEOS Egypt**.  
-Governance is anchored in [TEOS-FORGE](https://github.com/Elmahrosa/TEOS-FORGE).  
-Commercial use requires written approval from Elmahrosa International.  
-
-?? Protected under dual license: PolyForm Noncommercial + TEOS Egypt Sovereign License (TESL).
-
-![CI](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/actions/workflows/ci.yml/badge.svg)
-# 🌐 International Civic Blockchain Constitution  
-**Part of the TEOS Egypt Sovereign Blockchain Ecosystem**  
-*A mobile‑first, KYC‑secured civic constitution and multichain reference implementation.*
+# 🌐 International Civic Blockchain Constitution
+## Born in Egypt for the World  
+### Built in Egypt. Engineered for Nations. Scaled for the World.
 
 ---
 
-## 🔗 Integration Summary
-This repository is part of the **Elmahrosa Sovereign Stack**.  
-Governance is anchored in **TEOS-FORGE**, with integrations across Bankchain, ERT-LAUNCH, FPBE, and other civic modules.  
-See full details in [docs/integrations.md](https://github.com/Elmahrosa/TEOS-FORGE/blob/main/docs/integrations.md).
+## 📜 Constitutional Standing
 
+This repository constitutes a **sovereign original constitutional framework**
+under **Elmahrosa International — TEOS Egypt**.
+
+It defines the civic, legal, and governance foundations of the **TEOS Sovereign Blockchain Ecosystem**  
+and operates as a **constitutional reference** for nation-ready digital public infrastructure (DPI).
+
+---
+
+## 🧭 Constitutional Authority
+
+Governance authority is **exclusively anchored** in:
+
+- **TEOS-FORGE** — Sovereign Governance Root  
+  https://github.com/Elmahrosa/TEOS-FORGE
+
+All implementations, forks, pilots, or deployments deriving from this constitution
+**must remain subordinate** to TEOS-FORGE governance and sovereign oversight.
+
+---
+
+## 🌍 Constitutional Origin
+
+This constitution — and the TEOS ecosystem it governs — is **born in Egypt**,
+shaped by real civic constraints, regulatory realities, and national identity systems,
+and **engineered for the world** as a modular, exportable sovereign infrastructure framework.
+
+Egypt — *Om el Donia (Mother of the World)* — has historically served as a cradle of
+law, governance, and civic order.  
+TEOS inherits this legacy by transforming Egyptian civic foundations
+into globally deployable constitutional technology.
+
+---
+
+## 🛡️ Sovereign Scope
+
+This constitution governs:
+
+- Civic-first blockchain and identity systems
+- National and municipal digital services
+- Compliance-native DeFi and payment infrastructure
+- Identity, governance, and AI oversight layers
+- Multichain sovereign interoperability
+
+It is **not** a commercial whitepaper.  
+It is a **constitutional instrument**.
+
+---
+
+## ⚖️ License & Legal Standing
+
+This repository is protected under **dual sovereign licensing**:
+
+- **TEOS Egypt Sovereign License (TESL)**  
+- **PolyForm Noncommercial License**
+
+Commercial use, redistribution, or derivative deployment
+requires **explicit written authorization** from **Elmahrosa International**.
+
+---
+
+## 🔗 Ecosystem Integration
+
+This constitution is a core component of the **Elmahrosa Sovereign Stack**.
+
+It integrates with:
+- TEOS-Governance
+- Bankchain
+- FPBE
+- ERT-LAUNCH
+- Identity, Compliance, and AI Defense modules
+
+Full integration details:
+https://github.com/Elmahrosa/TEOS-FORGE/blob/main/docs/integrations.md
+
+---
+
+![CI](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/actions/workflows/ci.yml/badge.svg)
+
+© 2025 Elmahrosa International  
+All Rights Reserved — Sovereign Original  
+🇪🇬 Built in Egypt — For the World
