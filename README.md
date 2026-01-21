@@ -102,7 +102,7 @@ https://github.com/Elmahrosa/TEOS-FORGE/blob/main/docs/integrations.md
 
 ---
 
-![CI](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/actions/workflows/ci.yml/badge.svg?branch=main)
 
 © 2025 Elmahrosa International  
 All Rights Reserved — Sovereign Original  
