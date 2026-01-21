@@ -1,6 +1,5 @@
 # 🌍 International Civic Blockchain Constitution
 ## Born in Egypt for the World   
-![CI](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/actions/workflows/ci.yml/badge.svg?branch=main)
 
 
 This repository contains the **supreme constitutional charter**
@@ -17,8 +16,9 @@ Governance Root:
 
 🇪🇬 Built in Egypt. Engineered for Nations. Scaled for the World.
 
+![CI](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/actions/workflows/ci.yml/badge.svg?branch=main)
+
 ![TEOS Sovereign Standing](https://img.shields.io/badge/Standing-Sovereign%20Original%20—%20Elmahrosa%20International-blue?style=for-the-badge)
-[![License: TESL](https://img.shields.io/badge/License-TESL%20%2B%20PolyForm%20Noncommercial-green?style=for-the-badge)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
 
 # 🌐 International Civic Blockchain Constitution
 ## Born in Egypt for the World  
