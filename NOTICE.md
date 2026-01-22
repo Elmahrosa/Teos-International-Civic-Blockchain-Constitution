@@ -1,26 +1,55 @@
 # NOTICE
 
-This repository is part of the **Elmahrosa Sovereign Stack**, originated and stewarded by  
-**Elmahrosa International — TEOS Egypt**.
+This repository is the **constitutional authority**
+of the **TEOS / Elmahrosa Sovereign Stack**.
 
-## License Authority
+It defines the supreme doctrine, governance hierarchy,
+and licensing authority for all TEOS systems.
 
-This project is governed exclusively by the **TEOS Egypt Sovereign License (TESL)**.
+All repositories, services, APIs, AI modules, and deployments
+derive legitimacy **exclusively** from this source.
 
-- **Canonical license (single source of truth):**  
-  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
+---
 
-No other license, dual-license model, or open-source license applies.
+## Canonical Authority
 
-## Governance & Stewardship
+**International Civic Blockchain Constitution**  
+(this repository is the single source of constitutional truth)
 
-All governance, policy, and lifecycle oversight are defined by  
-**Elmahrosa International** and the TEOS Egypt constitutional framework.
+---
 
-AI systems, automation, and tooling operate strictly as decision-support mechanisms.  
-**Final authority remains human and founder-anchored.**
+## Governance Stewardship Anchor
+
+**TEOS-FORGE**  
+https://github.com/Elmahrosa/TEOS-FORGE
+
+TEOS-FORGE governs lifecycle, stewardship, and enforcement
+of the constitutional doctrine defined here.
+
+---
+
+## License Authority (Canonical)
+
+**TEOS Egypt Sovereign License (TESL)** — single source of truth:  
+https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
+
+All other repositories must reference this canonical license
+and must not redefine or duplicate license terms.
+
+If any discrepancy exists elsewhere, **this repository prevails**.
+
+---
+
+## Restriction
+
+This repository is **source-available, not open source**.
+
+Unauthorized reuse, redistribution, commercial use,
+or misrepresentation is strictly prohibited
+without explicit written authorization from Elmahrosa International.
+
+---
 
 ## Contact
 
-For commercial, institutional, or governmental licensing inquiries:  
 📧 ayman@teosegypt.com
