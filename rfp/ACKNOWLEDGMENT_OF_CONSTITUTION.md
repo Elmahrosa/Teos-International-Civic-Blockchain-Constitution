@@ -20,7 +20,6 @@ into exportable digital public infrastructure.
 
 This Constitution is the **highest authority** governing all TEOS protocols,
 institutions, contributors, validators, and deployments.
-
 ---
 
 ## 🧭 Foundational Mandates
