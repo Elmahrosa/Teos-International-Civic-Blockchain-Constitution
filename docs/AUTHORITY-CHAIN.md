@@ -113,6 +113,57 @@ Sovereignty is institutional, constitutional, and state-aligned by design.
   https://github.com/Elmahrosa/TEOS-FORGE
 
 ---
+---
+
+## 🌐 Constitutional Capacity Governance
+
+### Regional Capacity Supremacy Rule
+
+To preserve global multipolar balance and prevent institutional or geopolitical capture, the TEOS Sovereign Stack enforces the following rule:
+
+> **No geopolitical region may exceed twenty-five percent (25%) of total global sovereign access capacity** across all active pilots, scaled deployments, or production systems.
+
+This rule applies **cumulatively** and **irrevocably**, regardless of:
+- Funding source (UN, IFI, bilateral, national)
+- Institutional intermediaries
+- Subsidiaries, consortiums, or special-purpose vehicles
+- Deployment phase (pilot or production)
+
+### Canonical Region Definitions
+
+For constitutional accounting, regions are fixed as follows:
+
+- **MENA** — Middle East & North Africa  
+- **Africa** — Sub-Saharan Africa  
+- **LATAM** — Latin America & Caribbean  
+- **Europe** — EU + UK + EEA + Western Balkans  
+- **North America** — United States & Canada  
+- **East Asia** — China, Japan, Korea, Taiwan  
+- **South & Southeast Asia** — ASEAN + Indian Subcontinent  
+
+Regions **may not be subdivided, merged, or reclassified** to bypass capacity enforcement.
+
+### Allocation Logic
+
+- **OPEN:** Capacity available under the constitutional ceiling  
+- **PRIORITY:** Preferred sequencing within the ceiling  
+- **LIMITED:** Participation permitted only if unused capacity exists  
+
+Unused capacity **expires** and does not roll over or transfer cross-region.
+
+### Enforcement
+
+Capacity enforcement is binding across:
+- MoUs
+- Pilot agreements
+- RFPs
+- Funding instruments
+- Technical deployments
+
+Any attempt to bypass this rule constitutes **constitutional non-compliance**.
+
+---
+
 
 **Certified under Founder-Controlled Constitutional Authority**  
 **Elmahrosa International — TEOS Egypt**
