@@ -1,173 +1,142 @@
-# 🔗 TEOS Sovereign Authority Chain
-## Canonical Authority & Execution Hierarchy
+# 🔗 **TEOS Sovereign Authority Chain** 🏛️
 
-This document defines the **non-negotiable authority and execution hierarchy**
-governing the **TEOS / Elmahrosa Sovereign Stack**.
+<span class="badge badge-primary">Canonical Authority</span> <span class="badge badge-dark">Non-Negotiable</span>
 
-It applies to **all repositories, systems, APIs, AI modules, integrations, and deployments**
-without exception.
+## **Canonical Authority & Execution Hierarchy** ⚖️
 
-This hierarchy is governed exclusively by the
-**International Civic Blockchain Constitution** and enforced under the **TESL** license.
+<span class="badge badge-info">Applies to All Repos, Systems, APIs, AI, Integrations & Deployments</span>
+
+Governed exclusively by **International Civic Blockchain Constitution** <span class="badge badge-success">ICBC</span> & **TESL License** <span class="badge badge-secondary">TESL</span>
 
 ---
 
-## 🏛️ Canonical Authority Flow
+## 🏛️ **Canonical Authority Flow** 🔗
 
-No system, component, or actor may operate outside the following authority chain:
+<span class="badge badge-warning">No Bypasses Allowed</span>
 
 ```
-
-International Civic Blockchain Constitution
+International Civic Blockchain Constitution <span class="badge badge-dark">Source of Truth</span>
 ↓
-TEOS-FORGE
-(Stewardship & Lifecycle Governance)
+TEOS-FORGE <span class="badge badge-info">Stewardship & Lifecycle</span>
 ↓
-TEOS-Governance
-(Policy, Oversight & Decision Authority)
+TEOS-Governance <span class="badge badge-primary">Policy & Oversight</span>
 ↓
-TEOS-Compliance-Kit
-(Jurisdictional & Regulatory Enforcement)
+TEOS-Compliance-Kit <span class="badge badge-success">Regulatory Enforcement</span>
 ↓
-TEOS-AI-Guard
-(AI Safety Gates — Decision Support Only)
+TEOS-AI-Guard <span class="badge badge-secondary">AI Safety Gates</span>
 ↓
-TEOS-AI-Auditor
-(Evidence Generation, Logging & Audit Export)
+TEOS-AI-Auditor <span class="badge badge-light">Audit & Logging</span>
 ↓
-Teos-Sovereign-System
-(Sovereign Execution Kernel)
+Teos-Sovereign-System <span class="badge badge-danger">Execution Kernel</span>
 ↓
-TEOS-API-Sovereign
-(Governed API & SDK Gateway)
+TEOS-API-Sovereign <span class="badge badge-warning">API Gateway</span>
 ↓
-External Applications, Institutions, Nations & Partners
-
+External Applications, Institutions, Nations & Partners <span class="badge badge-info">Sovereign Partners</span>
 ```
 
-Any deviation, bypass, or reordering of this chain is **strictly prohibited**.
+<span class="badge badge-danger">Strictly Prohibited: Deviations, Bypasses, Reordering</span>
 
 ---
 
-## ⚖️ Authority Enforcement Rules
+## ⚖️ **Authority Enforcement Rules** 🔒
 
-The following rules are absolute and non-negotiable:
+<span class="badge badge-dark">Absolute & Non-Negotiable</span>
 
-- Authority **always flows downward**
-- Execution **never creates authority**
-- Governance **precedes automation**
-- Compliance **must be validated before execution**
-- AI **never decides**; it supports human authority only
-- APIs **may not bypass governance or compliance layers**
-- Audit evidence **must exist for every state-changing action**
+- Authority **always flows downward** <span class="badge badge-primary">Downward Only</span>
+- Execution **never creates authority** <span class="badge badge-secondary">No Upward Flow</span>
+- Governance **precedes automation** <span class="badge badge-success">Governance First</span>
+- Compliance **must be validated before execution** <span class="badge badge-warning">Pre-Validation</span>
+- AI **never decides**; supports human authority only <span class="badge badge-info">Advisory AI</span>
+- APIs **may not bypass governance or compliance** <span class="badge badge-danger">No API Bypass</span>
+- Audit evidence **must exist for every state-changing action** <span class="badge badge-light">Full Audit</span>
 
-Any system or integration violating these rules is considered
-**non-compliant, unauthorized, and invalid**.
-
----
-
-## 🛡️ AI & Automation Constraints
-
-- AI components are **advisory only**
-- No AI model may:
-  - Issue binding decisions
-  - Override governance rules
-  - Execute actions without human authorization
-- All AI activity must be:
-  - Logged
-  - Auditable
-  - Traceable to an accountable authority
-
-There is **no autonomous governance** within the TEOS Sovereign Stack.
+<span class="badge badge-danger">Violations = Non-Compliant & Invalid</span>
 
 ---
 
-## 🌍 Sovereign Scope of Application
+## 🛡️ **AI & Automation Constraints** 🤖
 
-This authority model is explicitly designed for:
+<span class="badge badge-secondary">Advisory Only</span>
 
-- National governments
-- Central banks
-- Regulatory authorities
-- National digital platforms
-- UN / SDG-aligned Digital Public Infrastructure (DPI) programs
+- **No AI binding decisions** <span class="badge badge-warning">Support Role</span>
+- **No overrides** <span class="badge badge-danger">Human Authority</span>
+- All AI: **Logged | Auditable | Traceable** <span class="badge badge-success">Full Traceability</span>
 
-This is **not**:
-- A DAO governance model
-- A community-voting system
-- A permissionless protocol
-
-Sovereignty is institutional, constitutional, and state-aligned by design.
+<span class="badge badge-dark">No Autonomous Governance</span>
 
 ---
 
-## 📜 Canonical References
+## 🌍 **Sovereign Scope of Application** 🏛️
 
-- **Constitution (Single Source of Truth)**  
+<span class="badge badge-primary">Institutional & State-Aligned</span>
+
+**Designed For:**
+- National governments <span class="badge badge-info">Governments</span>
+- Central banks <span class="badge badge-success">Central Banks</span>
+- Regulatory authorities <span class="badge badge-warning">Regulators</span>
+- National digital platforms <span class="badge badge-secondary">DPI</span>
+- UN / SDG-aligned programs <span class="badge badge-light">UN SDG</span>
+
+**Not For:**
+- DAOs <span class="badge badge-danger">❌ DAO</span>
+- Community voting <span class="badge badge-danger">❌ Voting</span>
+- Permissionless protocols <span class="badge badge-danger">❌ Permissionless</span>
+
+---
+
+## 📜 **Canonical References** 🔗
+
+- **Constitution (Single Source of Truth)** <span class="badge badge-dark">ICBC</span>  
   https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
 
-- **License Authority (TESL)**  
+- **License Authority (TESL)** <span class="badge badge-secondary">TESL</span>  
   https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
 
-- **Stewardship & Governance Anchor (TEOS-FORGE)**  
+- **Stewardship & Governance Anchor (TEOS-FORGE)** <span class="badge badge-primary">Forge</span>  
   https://github.com/Elmahrosa/TEOS-FORGE
 
 ---
----
 
-## 🌐 Constitutional Capacity Governance
+## 🌐 **Constitutional Capacity Governance** 📊
 
-### Regional Capacity Supremacy Rule
+### **Regional Capacity Supremacy Rule** <span class="badge badge-danger">25% Max</span>
 
-To preserve global multipolar balance and prevent institutional or geopolitical capture, the TEOS Sovereign Stack enforces the following rule:
+> <span class="badge badge-warning">No region exceeds 25% global sovereign capacity</span> — Cumulative & Irrevocable
 
-> **No geopolitical region may exceed twenty-five percent (25%) of total global sovereign access capacity** across all active pilots, scaled deployments, or production systems.
+<span class="badge badge-info">Ignores: Funding, Intermediaries, SPVs, Phases</span>
 
-This rule applies **cumulatively** and **irrevocably**, regardless of:
-- Funding source (UN, IFI, bilateral, national)
-- Institutional intermediaries
-- Subsidiaries, consortiums, or special-purpose vehicles
-- Deployment phase (pilot or production)
+### **Canonical Region Definitions** 🗺️
 
-### Canonical Region Definitions
+| Region | Definition | <span class="badge badge-light">Status</span> |
+| --- | --- | --- |
+| **MENA** | Middle East & North Africa | <span class="badge badge-success">Priority</span> |
+| **Africa** | Sub-Saharan Africa | <span class="badge badge-success">High Priority</span> |
+| **LATAM** | Latin America & Caribbean | <span class="badge badge-success">Open</span> |
+| **Europe** | EU + UK + EEA + Western Balkans | <span class="badge badge-warning">Limited</span> |
+| **North America** | United States & Canada | <span class="badge badge-warning">Limited</span> |
+| **East Asia** | China, Japan, Korea, Taiwan | <span class="badge badge-warning">Limited</span> |
+| **South & Southeast Asia** | ASEAN + Indian Subcontinent | <span class="badge badge-success">Open</span> |
 
-For constitutional accounting, regions are fixed as follows:
+<span class="badge badge-danger">No Subdivisions, Merges, or Reclassifications</span>
 
-- **MENA** — Middle East & North Africa  
-- **Africa** — Sub-Saharan Africa  
-- **LATAM** — Latin America & Caribbean  
-- **Europe** — EU + UK + EEA + Western Balkans  
-- **North America** — United States & Canada  
-- **East Asia** — China, Japan, Korea, Taiwan  
-- **South & Southeast Asia** — ASEAN + Indian Subcontinent  
+### **Allocation Logic** 🎯
 
-Regions **may not be subdivided, merged, or reclassified** to bypass capacity enforcement.
+- **OPEN** <span class="badge badge-success">Available</span>
+- **PRIORITY** <span class="badge badge-primary">Preferred</span>
+- **LIMITED** <span class="badge badge-warning">Conditional</span>
 
-### Allocation Logic
+<span class="badge badge-secondary">Unused Capacity Expires — No Rollover</span>
 
-- **OPEN:** Capacity available under the constitutional ceiling  
-- **PRIORITY:** Preferred sequencing within the ceiling  
-- **LIMITED:** Participation permitted only if unused capacity exists  
+### **Enforcement** <span class="badge badge-dark">Binding</span>
 
-Unused capacity **expires** and does not roll over or transfer cross-region.
+<span class="badge badge-info">MoUs | Pilots | RFPs | Funding | Deployments</span>
 
-### Enforcement
-
-Capacity enforcement is binding across:
-- MoUs
-- Pilot agreements
-- RFPs
-- Funding instruments
-- Technical deployments
-
-Any attempt to bypass this rule constitutes **constitutional non-compliance**.
+<span class="badge badge-danger">Bypass = Constitutional Non-Compliance</span>
 
 ---
 
+<span class="badge badge-success">Status: PRODUCTION</span>
 
-**Certified under Founder-Controlled Constitutional Authority**  
-**Elmahrosa International — TEOS Egypt**
+**Certified under Founder-Controlled Constitutional Authority** <span class="badge badge-primary">Elmahrosa International — TEOS Egypt</span>
 
-*Born in Egypt. Engineered for Nations. Scaled for the World.*
-```
-
+*<span class="badge badge-info">Born in Egypt. Engineered for Nations. Scaled for the World.</span>*
