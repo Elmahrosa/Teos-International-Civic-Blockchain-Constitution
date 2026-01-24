@@ -1,51 +1,74 @@
 # 🚀 TEOS Sovereign RFP Kit  
 ## 🌐 International Civic Blockchain Constitution (ICBC)
 
-![Status](https://img.shields.io/badge/Status-PRODUCTION-darkgreen)
+**Governing Authority:** International Civic Blockchain Constitution  
+**License:** TESL — Sovereign Usage Rights  
+**Verification:** SHA256[AUTHORITY.md]  
+**Status:** PRODUCTION | Jan 24, 2026  
+
+![Status](https://img.shields.io/badge/Status-PRODUCTION-success)
 ![Governance](https://img.shields.io/badge/Governance-Constitutional-blue)
 ![License](https://img.shields.io/badge/License-TESL-red)
 ![Access](https://img.shields.io/badge/Access-Sovereign_Only-black)
-![Region](https://img.shields.io/badge/MENA-Africa_OPEN-gold)
-![Capacity](https://img.shields.io/badge/Regional_Cap-25%25-critical)
+![Region](https://img.shields.io/badge/Region-MENA_%26_Africa-gold)
+![Capacity](https://img.shields.io/badge/Regional_Cap-25%25-orange)
 
 ---
 
 ## 🏛 Official Sovereign RFP Directory
 
-This repository is the **Canonical Gateway** for:
+This repository serves as the **Canonical Gateway** for sovereign and institutional engagement with the **TEOS Sovereign Stack**.
 
+It is intended exclusively for:
 - National Governments  
 - Central Banks  
 - Sovereign Authorities  
+- United Nations agencies  
 - International Financial Institutions (IFIs)
 
-All documents are governed exclusively by the  
+All documents contained herein are governed **exclusively** by the  
 **International Civic Blockchain Constitution (ICBC)**  
 and the **Teos Ethical Sovereign License (TESL)**.
 
-> **No document outside this directory carries authority.**
+> **No document, codebase, or communication outside this directory carries constitutional authority.**
 
 ---
 
 ## 🧭 Mandatory Sovereign Onboarding Path
 
-![Step](https://img.shields.io/badge/Step_1-PAI_Verification-blue)
-**Preliminary Access Inquiry (PAI)**  
-🔗 https://portal.teosegypt.com
+### 1️⃣ Preliminary Access Inquiry (PAI) — Verification Gate  
+🔗 https://portal.teosegypt.com  
 
-![Step](https://img.shields.io/badge/Step_2-Strategic_Alignment-blue)
-**UN SDG Alignment Review**  
-📄 `UN_SDG_IMPLEMENTATION.md`
+Institutional identity, authority level, and constitutional acknowledgment are verified prior to access.
 
-![Step](https://img.shields.io/badge/Step_3-Technical_Review-blue)
-**90-Day Pilot Execution Roadmap**  
-📄 `PILOT_TECHNICAL_ROADMAP_90_DAYS.md`
+---
 
-![Step](https://img.shields.io/badge/Step_4-Activation-red)
-**Sovereign Risk Acceptance & Sign-Off**  
-📄 `PILOT_RISK_ACCEPTANCE_LETTER.md`
+### 2️⃣ Strategic Alignment — UN SDG & DPI Review  
+📄 `UN_SDG_IMPLEMENTATION.md`  
 
-> ⚠️ **Document review is mandatory prior to any executive briefing.**
+Demonstrates alignment with:
+- **SDG 16.9** — Legal Identity  
+- **SDG 17.17** — Effective Partnerships  
+- GovStack / Digital Public Infrastructure principles
+
+---
+
+### 3️⃣ Technical Readiness — 90-Day Pilot Execution Roadmap  
+📄 `PILOT_TECHNICAL_ROADMAP_90_DAYS.md`  
+
+Defines National Adapter Layer (NAL) activation, audit readiness, and pilot scope.
+
+---
+
+### 4️⃣ Sovereign Activation — Risk Acceptance & Formal Sign-Off  
+📄 `PILOT_RISK_ACCEPTANCE_LETTER.md`  
+
+Formal acknowledgment of:
+- Constitutional governance  
+- National data sovereignty  
+- Pilot risk boundaries  
+
+> ⚠️ **Completion of document review is mandatory prior to any executive or technical briefing.**
 
 ---
 
@@ -53,57 +76,55 @@ and the **Teos Ethical Sovereign License (TESL)**.
 
 | Document | Purpose | Intended Authority |
 |--------|--------|-------------------|
-| **GOVERNMENT_OVERVIEW.md** | Strategic entry point | Ministers, Governors, Heads of State |
+| **GOVERNMENT_OVERVIEW.md** | Strategic sovereign entry point | Ministers, Governors, Heads of State |
 | **AUTHORITY.md** | Constitutional execution hierarchy | Legal Counsel, CTOs |
-| **UN_SDG_IMPLEMENTATION.md** | SDGs 16.9 & 17.17 compliance | UN, Grant Officers |
-| **PILOT_TECHNICAL_ROADMAP_90_DAYS.md** | National Adapter Layer (NAL) activation | Technical Leads, PMs |
+| **UN_SDG_IMPLEMENTATION.md** | SDGs 16.9 & 17.17 alignment | UN Delegates, Grant Officers |
+| **PILOT_TECHNICAL_ROADMAP_90_DAYS.md** | National Adapter Layer (NAL) activation | Technical Leads, Program Managers |
 | **UN_IFI_QA.md** | Institutional legal & audit responses | IFIs, Compliance Bodies |
 
 ---
 
 ## 🛡 Sovereign Access Protocol
 
-![Protocol](https://img.shields.io/badge/Protocol-Constitution_First-black)
-
 1. **Constitutional Supremacy**  
-   ICBC is the sole canonical authority governing deployment.
+   The ICBC is the sole canonical authority governing all deployments.
 
 2. **Usage Rights Only**  
-   Access is granted as **Sovereign Usage Rights** —  
-   no IP transfer, no equity, no token dependency.
+   Access is granted strictly as **Sovereign Usage Rights**.  
+   No IP transfer, no equity rights, no token dependency.
 
 3. **Geopolitical Capacity Control**  
-   Regional participation is capped at **25%**  
-   to preserve multipolar balance.
+   Regional participation is capped at **25% of total global access capacity**  
+   to preserve multipolar, non-aligned balance and prevent bloc capture.
 
 ---
 
-## 🌍 Global Capacity & Funding Profile
+## 🌍 Global Capacity & Funding Profile (Indicative)
 
 ### 🌐 Regional Status
 
-![MENA](https://img.shields.io/badge/MENA-OPEN-success)
-![Africa](https://img.shields.io/badge/Africa-HIGH_PRIORITY-success)
-![LATAM](https://img.shields.io/badge/LATAM-OPEN-success)
-![EastAsia](https://img.shields.io/badge/East_Asia-LIMITED-warning)
+- **MENA:** OPEN (Priority)  
+- **Africa:** OPEN (High Priority)  
+- **LATAM:** OPEN  
+- **East Asia:** LIMITED  
 
-### 💰 Funding Eligibility
+### 💰 Funding Eligibility (Non-Binding)
 
-| Phase | Allocation | Duration |
-|-----|-----------|----------|
+| Phase | Indicative Range | Duration |
+|-----|-----------------|----------|
 | **Pilot Phase** | $1.5M – $3.0M | 6 Months |
 | **Scale Phase** | $5.0M – $15.0M | 18 Months |
 
-✅ Compatible with:
-- UNDP  
-- World Bank (IDA)  
-- Bilateral DPI & Sovereign Tech Funds  
+These ranges are **indicative only** and subject to:
+- National procurement law  
+- UN / IFI funding mechanisms  
+- Separate legal and financial instruments  
+
+Funding does **not** alter governance, authority, or constitutional control.
 
 ---
 
 ## 🔗 Verification & Integrity Layer
-
-![Integrity](https://img.shields.io/badge/Integrity-SHA--256_Verified-darkblue)
 
 - **Authority Chain**  
   `ICBC → TEOS-FORGE → TEOS-Governance → TEOS-Sovereign-System`
@@ -116,28 +137,24 @@ and the **Teos Ethical Sovereign License (TESL)**.
 
 ## ⚠️ Non-Commercial Notice
 
-![Notice](https://img.shields.io/badge/Notice-Non--Commercial-important)
-
-This repository **does not** constitute:
-- A commercial product offer  
-- An equity solicitation  
-- A public blockchain release  
+This repository does **not** constitute:
+- A commercial product offering  
+- An equity or token solicitation  
+- A public blockchain deployment  
 
 All engagements are subject to:
 - Constitutional authority  
 - TESL governance  
-- Formal sovereign procurement procedures  
+- Formal sovereign and IFI procurement procedures  
 
 ---
 
 ## 📌 Repository Status
 
-![Updated](https://img.shields.io/badge/Last_Updated-Jan_24_2026-blue)
-
 **Status:** PRODUCTION  
+**Last Updated:** January 24, 2026  
 
 **Office of Ayman Seif**  
 Founder & CEO — Elmahrosa International  
 
 *Certified under Founder-Controlled Constitutional Authority*
-```
