@@ -11,7 +11,7 @@
 
 ## 🏛 Official Sovereign RFP Directory
 
-This repository serves as the **Canonical Gateway** for:
+This repository is the **Canonical Gateway** for:
 
 - National Governments  
 - Central Banks  
@@ -31,13 +31,13 @@ and the **Teos Ethical Sovereign License (TESL)**.
 **Step 1 — Preliminary Access Inquiry (PAI)**  
 🔗 https://portal.teosegypt.com  
 
-**Step 2 — Strategic Alignment Review**  
+**Step 2 — Strategic Alignment**  
 📄 `UN_SDG_IMPLEMENTATION.md`  
 
 **Step 3 — Technical Review**  
 📄 `PILOT_TECHNICAL_ROADMAP_90_DAYS.md`  
 
-**Step 4 — Activation & Sign-Off**  
+**Step 4 — Activation**  
 📄 `PILOT_RISK_ACCEPTANCE_LETTER.md`  
 
 > ⚠️ **Completion of document review is mandatory prior to any executive or technical briefing.**
@@ -53,7 +53,6 @@ and the **Teos Ethical Sovereign License (TESL)**.
 | **UN_SDG_IMPLEMENTATION.md** | SDGs 16.9 & 17.17 alignment | UN Delegates, Grant Officers |
 | **PILOT_TECHNICAL_ROADMAP_90_DAYS.md** | National Adapter Layer (NAL) activation | Technical Leads, Program Managers |
 | **UN_IFI_QA.md** | Institutional legal & audit responses | IFIs, Compliance Bodies |
-| **NOTICE_TO_GOVERNMENTS.md** | Procurement & legal clarification | Procurement Offices, Legal Teams |
 
 ---
 
@@ -67,62 +66,89 @@ and the **Teos Ethical Sovereign License (TESL)**.
    No IP transfer, no equity rights, no token dependency.
 
 3. **Geopolitical Capacity Control**  
-   Regional participation is capped at **25%**  
-   to preserve multipolar and non-aligned balance.
+   Global participation is regulated through a **constitutionally enforced regional capacity model**.
 
 ---
 
-## 🌍 Global Capacity & Regional Status
+## 🌐 Regional Capacity Allocation (25% Cap)
 
-### ✅ OPEN REGIONS
-- **MENA:** OPEN *(Priority)*  
-- **Africa:** OPEN *(High Priority)*  
+> **No geopolitical region may exceed 25% of total global sovereign access capacity**  
+> across all active pilots and production deployments.
+
+This cap applies **cumulatively**, regardless of funding source, institution, or implementation partner.
+
+### Canonical Regions (Fixed for Constitutional Accounting)
+
+- **MENA** — Middle East & North Africa  
+- **Africa** — Sub-Saharan Africa  
+- **LATAM** — Latin America & Caribbean  
+- **Europe** — EU + UK + EEA + Western Balkans  
+- **North America** — United States & Canada  
+- **East Asia** — China, Japan, Korea, Taiwan  
+- **South & Southeast Asia** — ASEAN + Indian Subcontinent  
+
+> Regions may **not** be reclassified or subdivided to bypass constitutional caps.
+
+### Current Capacity Status
+
+- **MENA:** OPEN (Priority)  
+- **Africa:** OPEN (High Priority)  
 - **LATAM:** OPEN  
 
-### ⚠️ LIMITED REGIONS
-- **Europe:** LIMITED *(Regulatory alignment required)*  
-- **North America (USA & Canada):** LIMITED *(Sovereign pilot only)*  
+- **Europe:** LIMITED (Regulatory Alignment Required)  
+- **North America (USA & Canada):** LIMITED (Sovereign Pilot Only)  
 - **East Asia:** LIMITED  
+- **South & Southeast Asia:** LIMITED  
 
-> Regional limitations reflect regulatory complexity and sovereignty-first sequencing — not exclusion.
-Priority designation reflects constitutional capacity allocation and does not imply political preference or exclusion.
+**Priority** reflects constitutional allocation sequencing only.  
+It does **not** imply political preference or exclusion.
+
+Unused capacity **expires** and does not roll over.
 
 ---
 
-## 💰 Funding Profile (Indicative, Non-Binding)
+## 💰 Funding Profile (Non-Binding)
 
-| Phase | Allocation | Duration |
-|-----|-----------|----------|
+| Phase | Allocation Range | Duration |
+|-----|------------------|----------|
 | **Pilot Phase** | $1.5M – $3.0M | 6 Months |
 | **Scale Phase** | $5.0M – $15.0M | 18 Months |
 
-✅ Compatible with:
+Funding ranges are **indicative**, not commercial offers.
+
+Compatible with:
 - UNDP  
 - World Bank (IDA)  
-- Multilateral & Bilateral Digital Public Infrastructure Funds  
+- Regional Development Banks  
+- Bilateral Digital Public Infrastructure (DPI) Programs  
 
 ---
 
 ## 🔗 Verification & Integrity Layer
 
-- **Governing Authority:** International Civic Blockchain Constitution  
-- **License:** TESL — Sovereign Usage Rights  
-- **Verification:** SHA-256 hash anchored in `AUTHORITY.md`  
-- **Authority Chain:**  
-  `ICBC → TEOS-FORGE → TEOS-Governance → TEOS-Sovereign-System`
+**Governing Authority:** International Civic Blockchain Constitution  
+**License:** TESL — Sovereign Usage Rights  
+**Verification:** SHA-256 hash anchored in `AUTHORITY.md`  
+**Status:** PRODUCTION | Jan 24, 2026  
 
-*Hash values are published at time of constitutional ratification.*
+**Authority Chain:**  
+`ICBC → TEOS-FORGE → TEOS-Governance → TEOS-Sovereign-System`
+
+All core documents reference the canonical authority hash to ensure  
+tamper-evident constitutional alignment.
 
 ---
 
 ## ⚠️ Non-Commercial Notice
 
 This repository does **not** constitute:
+
 - A commercial product offering  
-- An equity, token, or investment solicitation  
-- A public blockchain deployment  
+- An equity or token solicitation  
+- A public blockchain release  
 
 All engagements are subject to:
+
 - Constitutional authority  
 - TESL governance  
 - Formal sovereign procurement and approval procedures  
@@ -132,9 +158,9 @@ All engagements are subject to:
 ## 📌 Repository Status
 
 **Status:** PRODUCTION  
-**Last Updated:** January 24, 2026  
 
 **Office of Ayman Seif**  
 Founder & CEO — Elmahrosa International  
 
-*Certified under Founder-Controlled Constitutional Authority*
+*Certified under Founder-Controlled Constitutional Authority*  
+
