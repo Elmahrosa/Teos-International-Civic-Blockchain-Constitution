@@ -85,6 +85,7 @@ and the **Teos Ethical Sovereign License (TESL)**.
 - **East Asia:** LIMITED  
 
 > Regional limitations reflect regulatory complexity and sovereignty-first sequencing — not exclusion.
+Priority designation reflects constitutional capacity allocation and does not imply political preference or exclusion.
 
 ---
 
