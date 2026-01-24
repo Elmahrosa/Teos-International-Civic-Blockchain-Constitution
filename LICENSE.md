@@ -1,195 +1,145 @@
-# ⚖️ Teos Ethical Sovereign License (TESL)
+# 🔗 **TEOS Sovereign Authority Chain** 🏛️
 
-**This file is the sole canonical and authoritative source  
-of the Teos Ethical Sovereign License (TESL).**
+<span class="badge badge-primary">Canonical Authority</span> <span class="badge badge-dark">Non-Negotiable</span>
 
-Copyright © 2025–2026 Elmahrosa International  
-All Rights Reserved.
+## **Canonical Authority & Execution Hierarchy** ⚖️
 
-**Status:** Proprietary · Source-Available · Sovereign-Governed · Ethical-First
+<span class="badge badge-info">Applies to All Repos, Systems, APIs, AI, Integrations & Deployments</span>
 
----
-
-## 1. Purpose and Scope
-
-This license (“**TESL**”) governs **all software, smart contracts, AI systems,
-documentation, specifications, data models, governance logic, SDKs,
-APIs, and infrastructure** published under **TEOS** and
-**Elmahrosa International** repositories.
-
-This includes, but is not limited to:
-
-- International-Civic-Blockchain-Constitution
-- TEOS-FORGE
-- TEOS-Governance
-- Teos-Sovereign-System
-- TEOS-Compliance-Kit
-- TEOS-AI-Guard
-- TEOS-AI-Auditor
-- TEOS-Identity-Insight-AI
-- TEOS-API-Sovereign (including SDKs)
-- TEOS-Civic-First-Blockchain-Ecosystem
-- Any forks, modules, extensions, or derivatives thereof
-
-TESL exists to support **civic-first, constitutionally governed,
-sovereign digital infrastructure**, prioritizing public interest,
-human rights, and ethical governance over unrestricted commercial use.
+Governed exclusively by **International Civic Blockchain Constitution** <span class="badge badge-success">ICBC</span> & **Teos Ethical Sovereign License** <span class="badge badge-secondary">TESL</span>
 
 ---
 
-## 2. Founder & Sovereign Authority
+## 🏛️ **Canonical Authority Flow** 🔗
 
-All rights to **use, deploy, modify, commercialize, sublicense,
-certify, or monetize** the software are reserved **exclusively** to:
+<span class="badge badge-warning">No Bypasses Allowed</span>
 
-**Ayman Seif — Elmahrosa International**
+```
+International Civic Blockchain Constitution <span class="badge badge-dark">Source of Truth</span>
+↓
+TEOS-FORGE <span class="badge badge-info">Stewardship & Lifecycle</span>
+↓
+TEOS-Governance <span class="badge badge-primary">Policy & Oversight</span>
+↓
+TEOS-Compliance-Kit <span class="badge badge-success">Regulatory Enforcement</span>
+↓
+TEOS-AI-Guard <span class="badge badge-secondary">AI Safety Gates</span>
+↓
+TEOS-AI-Auditor <span class="badge badge-light">Audit & Logging</span>
+↓
+Teos-Sovereign-System <span class="badge badge-danger">Execution Kernel</span>
+↓
+TEOS-API-Sovereign <span class="badge badge-warning">API Gateway</span>
+↓
+External Applications, Institutions, Nations & Partners <span class="badge badge-info">Sovereign Partners</span>
+```
 
-No ownership, patent, trademark, governance, or derivative authority
-is transferred under this license.
-
-All protocol governance, AI behavior, compliance enforcement,
-and execution logic remain **human-final and founder-anchored**.
-
-This authority is **non-delegable** unless explicitly granted
-in a written sovereign instrument.
-
----
-
-## 3. Permitted Evaluation Use (Non-Commercial)
-
-Non-Founder parties are granted a **limited, revocable,
-non-exclusive, non-transferable, non-commercial**
-right to:
-
-- View and review the source code
-- Fork repositories strictly for **education, research,
-  internal testing, or technical evaluation**
-- Submit issues or pull requests for review consideration
-
-This grant **explicitly excludes**:
-
-- production deployment
-- public hosting
-- operational use
-- institutional or governmental use
-- regulatory or critical infrastructure use
+<span class="badge badge-danger">Strictly Prohibited: Deviations, Bypasses, Reordering</span>
 
 ---
 
-## 4. Prohibited Uses (Without Written Sovereign License)
+## ⚖️ **Authority Enforcement Rules** 🔒
 
-You may **NOT**, without explicit written authorization
-from Elmahrosa International:
+<span class="badge badge-dark">Absolute & Non-Negotiable</span>
 
-- Use the software for **commercial, institutional,
-  governmental, or revenue-generating purposes**
-- Deploy in **production**, regulated, or public environments
-- Offer the software or derivatives as **SaaS, API,
-  platform, or managed service**
-- Resell, sublicense, white-label, or rebrand
-- Use for fundraising, token issuance, staking,
-  or financial products
-- Claim endorsement by TEOS or Elmahrosa International
-- Remove, alter, or obscure license, authority,
-  governance, or ethical notices
-- Circumvent compliance, audit, identity,
-  governance, or ethical safeguards
+- Authority **always flows downward** <span class="badge badge-primary">Downward Only</span>
+- Execution **never creates authority** <span class="badge badge-secondary">No Upward Flow</span>
+- Governance **precedes automation** <span class="badge badge-success">Governance First</span>
+- Compliance **must be validated before execution** <span class="badge badge-warning">Pre-Validation</span>
+- AI **never decides**; supports human authority only <span class="badge badge-info">Advisory AI</span>
+- APIs **may not bypass governance or compliance** <span class="badge badge-danger">No API Bypass</span>
+- Audit evidence **must exist for every state-changing action** <span class="badge badge-light">Full Audit</span>
+
+<span class="badge badge-danger">Violations = Non-Compliant & Invalid</span>
 
 ---
 
-## 5. Sovereign & Institutional Use
+## 🛡️ **AI & Automation Constraints** 🤖
 
-Any **governmental, intergovernmental, or institutional**
-use of TEOS requires:
+<span class="badge badge-secondary">Advisory Only</span>
 
-- Formal sovereign engagement
-- Explicit written authorization
-- A binding legal instrument (MoU, Pilot Agreement,
-  or Sovereign License)
+- **No AI binding decisions** <span class="badge badge-warning">Support Role</span>
+- **No overrides** <span class="badge badge-danger">Human Authority</span>
+- All AI: **Logged | Auditable | Traceable** <span class="badge badge-success">Full Traceability</span>
 
-No implied rights are granted through
-documentation access, evaluation, or funding references.
+<span class="badge badge-dark">No Autonomous Governance</span>
 
 ---
 
-## 6. Tokens & Digital Assets Disclaimer
+## 🌍 **Sovereign Scope of Application** 🏛️
 
-Any reference to tokens, points, governance units,
-rewards, or staking:
+<span class="badge badge-primary">Institutional & State-Aligned</span>
 
-- Is **experimental and non-investment**
-- Does **not** constitute an offer or solicitation
-- Does **not** represent equity or profit rights
+**Designed For:**
+- National governments <span class="badge badge-info">Governments</span>
+- Central banks <span class="badge badge-success">Central Banks</span>
+- Regulatory authorities <span class="badge badge-warning">Regulators</span>
+- National digital platforms <span class="badge badge-secondary">DPI</span>
+- UN / SDG-aligned programs <span class="badge badge-light">UN SDG</span>
 
-Regulatory compliance remains the sole responsibility
-of the deploying sovereign authority.
-
----
-
-## 7. AI & Governance Disclaimer
-
-AI systems under TEOS:
-
-- Operate as **decision-support tools only**
-- Do **not** replace legal, human, or institutional authority
-- May generate incomplete or incorrect outputs
-
-**Final authority always resides with  
-Ayman Seif / Elmahrosa International.**
+**Not For:**
+- DAOs <span class="badge badge-danger">❌ DAO</span>
+- Community voting <span class="badge badge-danger">❌ Voting</span>
+- Permissionless protocols <span class="badge badge-danger">❌ Permissionless</span>
 
 ---
 
-## 8. Compliance & Ethical Responsibility
+## 📜 **Canonical References** 🔗
 
-Any permitted use must comply with:
+- **Constitution (Single Source of Truth)** <span class="badge badge-dark">ICBC</span>  
+  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
 
-- Applicable law and regulation
-- Data protection and privacy requirements
-- Human rights and ethical standards
-- Civic-first principles
+- **License Authority (TESL)** <span class="badge badge-secondary">TESL</span>  
+  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE.md
 
-Violation of ethical or constitutional principles
-constitutes license breach.
-
----
-
-## 9. Termination
-
-Any violation of this license results in
-**immediate and automatic termination**
-of all granted rights.
-
-Upon termination, you must immediately:
-
-- Cease all use
-- Destroy all copies
-- Halt all derivative activity
+- **Stewardship & Governance Anchor (TEOS-FORGE)** <span class="badge badge-primary">Forge</span>  
+  https://github.com/Elmahrosa/TEOS-FORGE
 
 ---
 
-## 10. No Warranty
+## 🌐 **Constitutional Capacity Governance** 📊
 
-THE SOFTWARE IS PROVIDED **“AS IS”**,  
-WITHOUT WARRANTY OF ANY KIND.
+### **Regional Capacity Supremacy Rule** <span class="badge badge-danger">25% Max</span>
+
+> <span class="badge badge-warning">No region exceeds 25% global sovereign capacity</span> — Cumulative & Irrevocable
+
+<span class="badge badge-info">Ignores: Funding, Intermediaries, SPVs, Phases</span>
+
+### **Canonical Region Definitions** 🗺️
+
+| Region | Definition | <span class="badge badge-light">Status</span> |
+| --- | --- | --- |
+| **MENA** | Middle East & North Africa | <span class="badge badge-success">Priority</span> |
+| **Africa** | Sub-Saharan Africa | <span class="badge badge-success">High Priority</span> |
+| **LATAM** | Latin America & Caribbean | <span class="badge badge-success">Open</span> |
+| **Europe** | EU + UK + EEA + Western Balkans | <span class="badge badge-warning">Limited</span> |
+| **North America** | United States & Canada | <span class="badge badge-warning">Limited</span> |
+| **East Asia** | China, Japan, Korea, Taiwan | <span class="badge badge-warning">Limited</span> |
+| **South & Southeast Asia** | ASEAN + Indian Subcontinent | <span class="badge badge-success">Open</span> |
+
+<span class="badge badge-danger">No Subdivisions, Merges, or Reclassifications</span>
+
+### **Allocation Logic** 🎯
+
+- **OPEN** <span class="badge badge-success">Available</span>
+- **PRIORITY** <span class="badge badge-primary">Preferred</span>
+- **LIMITED** <span class="badge badge-warning">Conditional</span>
+
+<span class="badge badge-secondary">Unused Capacity Expires — No Rollover</span>
+
+### **Enforcement** <span class="badge badge-dark">Binding</span>
+
+<span class="badge badge-info">MoUs | Pilots | RFPs | Funding | Deployments</span>
+
+<span class="badge badge-danger">Bypass = Constitutional Non-Compliance</span>
 
 ---
 
-## 11. Limitation of Liability
+<span class="badge badge-success">Status: PRODUCTION</span>
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW,  
-**ELMAHROSA INTERNATIONAL SHALL NOT BE LIABLE**
-for any damages arising from use or misuse.
+**Certified under Founder-Controlled Constitutional Authority** <span class="badge badge-primary">Elmahrosa International — TEOS</span>
 
----
-
-## 12. Governing Law & Jurisdiction
-
-This license is governed by the laws of the  
-**Arab Republic of Egypt**.
-
-Exclusive jurisdiction: **Cairo, Egypt**.
-
----
+*<span class="badge badge-info">Born in Egypt. Engineered for Nations. Scaled for the World.</span>*
 
 ## 13. Contact & Sovereign Licensing
 
