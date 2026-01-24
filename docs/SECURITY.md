@@ -1,7 +1,7 @@
 # Security & Vulnerability Disclosure
 
 ## Reporting a Vulnerability
-If you discover a security issue, please disclose it privately via email to: security@elmahrosa.example (placeholder — update to real address).
+If you discover a security issue, please disclose it privately via email to: ayman@teosegypt.com (placeholder — update to real address).
 Provide: steps to reproduce, affected components, suggested remediation, and contact info for follow-up.
 
 ## Responsible Disclosure Policy
