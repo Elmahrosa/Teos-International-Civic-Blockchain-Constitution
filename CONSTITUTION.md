@@ -13,15 +13,15 @@
 
 We, the stakeholders of the TEOS ecosystem — citizens, public servants, civic institutions,
 technical custodians, and adopting jurisdictions — establish this Constitution as the
-supreme charter governing **civic-first blockchain infrastructure**.
+**supreme charter** governing civic-first blockchain infrastructure.
 
 TEOS is born in Egypt, *Om El Donia (Mother of the World)* — a historic origin of law,
 administration, and public order.  
 This Constitution transforms Egyptian civic governance principles into
 **exportable, nation-ready Digital Public Infrastructure (DPI)**.
 
-This document is the **highest authority** governing all TEOS protocols, registries,
-validators, institutions, contributors, deployments, and integrations.
+This document constitutes the **highest authority** governing all TEOS protocols,
+registries, validators, institutions, contributors, deployments, and integrations.
 
 No technical system, smart contract, vote, automation, or AI process may supersede
 this Constitution.
@@ -34,14 +34,14 @@ this Constitution.
 2. Human governance precedes automation.
 3. Civic legitimacy precedes economic activity.
 4. Transparency, auditability, and accountability are mandatory.
-5. Constitutional alignment is required **before** any execution.
-6. AI systems may assist analysis but **may not govern, decide, or override** human authority.
+5. Constitutional alignment is required **prior to any execution**.
+6. AI systems may assist analysis but **shall not govern, decide, or override** human authority.
 
 ---
 
 ## 🎯 Purpose & Scope
 
-This Constitution provides a **modular legal and operational charter** for implementing:
+This Constitution provides a **modular legal and operational charter** for:
 
 - Civic asset registries
 - Public governance and participation
@@ -71,7 +71,7 @@ Verified badge-holding citizens may:
 
 ### 🧩 Validators
 Validators are **constitutional custodians**, not owners.  
-They are bound to:
+They are obligated to:
 - Secure network operations
 - Enforce constitutional rules
 - Reject unconstitutional actions
@@ -110,7 +110,7 @@ All treasury actions MUST be:
 - Immutably logged
 
 Opacity, unilateral control, or undisclosed value flows are
-**constitutionally forbidden**.
+**constitutionally prohibited**.
 
 ---
 
@@ -122,7 +122,7 @@ All ecosystem rights are governed by verified badge tiers:
 - Founder
 - Institutional Participant
 
-Fraud, impersonation, or badge abuse triggers:
+Fraud, impersonation, or badge abuse results in:
 - Immediate audit
 - Rights suspension
 - Permanent exclusion if confirmed
@@ -153,7 +153,7 @@ All emergency actions require:
 - Public disclosure
 - Mandatory review within **14 days**
 
-Emergency powers **do not** override constitutional supremacy.
+Emergency powers **do not override constitutional supremacy**.
 
 ---
 
@@ -198,7 +198,7 @@ Signed under one sovereign charter.
 
 ---
 
-## Article IX — Cryptographic Enforcement of Authority
+## Article IX — Cryptographic Enforcement of Authority (Authorization Stamp)
 
 1. All executable actions within TEOS Sovereign Systems **MUST** be authorized through a
    cryptographic **Authorization Stamp**.
