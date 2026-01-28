@@ -3,6 +3,24 @@
 
 ---
 
+```mermaid
+flowchart TD
+  A[ICBC<br/>International Civic Blockchain Constitution<br/>Supreme Authority]
+  B[TEOS-FORGE<br/>Stewardship & Lifecycle Control]
+  C[TEOS-Governance<br/>Policy & Decision Authority<br/>No DAO / No Voting]
+  D[Compliance Layer<br/>Jurisdictional Enforcement]
+  E[AI Guard / AI Auditor<br/>Decision Support Only]
+  F[Teos-Sovereign-System<br/>Execution Kernel<br/>Non-Bypassable Gate]
+  G[Governed APIs / SDKs]
+  H[Authorized Apps & National Deployments]
+  I[Immutable Logs & Evidence Trails]
+
+  A --> B --> C --> D --> E --> F --> G --> H --> I
+  I --> C
+```
+
+---
+
 ## 1. Authority Chain (Governance Logic)
 
 - **Hierarchy:** Constitution → Governance → Execution (Non-Bypassable).
@@ -77,9 +95,9 @@
 
 The ICBC repository represents **more than software** — it is a **Sovereign Operating System for Digital Public Infrastructure**.
 
-- **Production-ready** for legal, civic, and institutional frameworks.
-- Suitable for **controlled national or institutional pilots**.
-- Architecturally aligned with global DPI thinking while preserving sovereign authority.
+- **Production-ready** for legal, civic, and institutional frameworks.  
+- Suitable for **controlled national or institutional pilots**.  
+- Architecturally aligned with global DPI thinking while preserving sovereign authority.  
 - Ready for **boardroom, regulator, and policy review**.
 
 ---
@@ -89,45 +107,45 @@ The ICBC repository represents **more than software** — it is a **Sovereign Op
 **Purpose:** Instantly communicate *Human Authority > AI > Code*.
 
 ### Visual Style
-- Top-down hierarchical waterfall.
+- Top-down hierarchical waterfall.  
 - Clear color separation between **human authority** and **technical execution**.
 
 ### Layout
 
-1. **[TOP — Gold/Blue] ICBC (The Constitution)**
-   - Icon: Scales of Justice / Egyptian Papyrus
-   - Label: *Supreme Authority (Human / Law)*
+1. **[TOP — Gold/Blue] ICBC (The Constitution)**  
+   - Icon: Scales of Justice / Egyptian Papyrus  
+   - Label: *Supreme Authority (Human / Law)*  
    - Badge: *Sovereign*
 
-2. **↓ Lifecycle Control**
-   - Gate Icon: Stewardship Shield
+2. **↓ Lifecycle Control**  
+   - Gate Icon: Stewardship Shield  
    - Label: **TEOS-FORGE**
 
-3. **[Blue] TEOS-Governance**
-   - Icon: Gavel / Policy Document
-   - Badge: *Institutional Ratification*
+3. **[Blue] TEOS-Governance**  
+   - Icon: Gavel / Policy Document  
+   - Badge: *Institutional Ratification*  
    - Note: *No DAO / No Voting*
 
-4. **↓ Jurisdictional Filter**
+4. **↓ Jurisdictional Filter**  
    - Gate Icon: Compliance Check
 
-5. **[Green] AI Guard / AI Auditor**
-   - Icon: Locked Robot
+5. **[Green] AI Guard / AI Auditor**  
+   - Icon: Locked Robot  
    - Label: *Decision Support Only*
 
-6. **[Dark Grey / Black] Teos-Sovereign-System**
-   - Icon: Engine / Gear
+6. **[Dark Grey / Black] Teos-Sovereign-System**  
+   - Icon: Engine / Gear  
    - Badge: *Non-Bypassable Runtime Gate*
 
 7. **↓ Governed Execution**
 
-8. **[Turquoise] Apps / Services / National Deployments**
-   - Icon: Nation / Cityscape
+8. **[Turquoise] Apps / Services / National Deployments**  
+   - Icon: Nation / Cityscape  
    - Label: *Authorized Endpoints Only*
 
 ### Visual Key
-- **Gold / Blue:** Human & Sovereign Authority (cannot be automated)
-- **Green:** Safety, audit, and constraint layers
+- **Gold / Blue:** Human & Sovereign Authority (cannot be automated)  
+- **Green:** Safety, audit, and constraint layers  
 - **Black:** Execution kernel (follows orders, never makes them)
 
 ---
@@ -135,3 +153,4 @@ The ICBC repository represents **more than software** — it is a **Sovereign Op
 **Authority:** Elmahrosa International  
 📧 ayman@teosegypt.com  
 🌐 https://teosegypt.com
+```
