@@ -1,5 +1,13 @@
 # Authorization Stamp — Cryptographic Authority Chain Specification
 
+**Related Specifications**
+- 🔗 **PAI Receipt (Right to Engage):**  
+  [`06_PAI_RECEIPT_SPEC.md`](../06_PAI_RECEIPT_SPEC.md)
+- 🔗 **Authorization Stamp (Right to Execute):**  
+  [`09_AUTHORIZATION_STAMP_SPEC.md`](09_AUTHORIZATION_STAMP_SPEC.md)
+
+---
+
 ## Purpose
 
 The **Authorization Stamp** is the cryptographic enforcement mechanism of the  
@@ -7,10 +15,10 @@ The **Authorization Stamp** is the cryptographic enforcement mechanism of the
 
 It provides **machine-verifiable, non-repudiable proof** that a requested action:
 
-1. Originated from a valid and registered authority level  
-2. Passed all required governance and safety controls  
+1. Originated from a valid, registered authority level  
+2. Passed all mandatory governance and safety controls  
 3. Was explicitly approved by accountable human institutional authority  
-4. Fully complies with ICBC constitutional rules and TESL licensing constraints  
+4. Fully complies with **ICBC constitutional rules** and **TESL licensing constraints**
 
 > **No execution may occur without a valid Authorization Stamp.**
 
@@ -28,7 +36,7 @@ lawfully traversed the Authority Chain:
 
 **ICBC → Governance → Safety → Execution**
 
-Any action lacking this traversal is **constitutionally void**.
+Any action lacking this traversal is **constitutionally void** and MUST NOT be executed.
 
 ---
 
@@ -36,7 +44,7 @@ Any action lacking this traversal is **constitutionally void**.
 
 Authorization Stamps are **MANDATORY** for all state-affecting or sovereign actions, including:
 
-- Treasury movements (vault creation, transfers, burns)
+- Treasury operations (vault creation, transfers, burns)
 - Policy execution or enforcement
 - Governance parameter changes
 - AI-assisted, semi-automated, or fully automated actions
@@ -46,14 +54,17 @@ Authorization Stamps are **NOT required** for:
 
 - Read-only queries
 - Public or non-sensitive data access
-- Passive audit inspection (non-mutating)
+- Passive, non-mutating audit inspection
 
 ---
 
 ## Authorization Stamp Data Model (Canonical)
 
-All required fields are mandatory. Their absence invalidates the Authorization Stamp.  
-Optional fields may only further restrict execution or improve auditability and must never reduce, bypass, or weaken enforcement.
+All required fields are mandatory.  
+Their absence **invalidates** the Authorization Stamp.
+
+Optional fields may only **further restrict execution or improve auditability**  
+and MUST NEVER weaken, bypass, or reduce enforcement.
 
 ### Required Fields
 
@@ -68,7 +79,7 @@ Optional fields may only further restrict execution or improve auditability and 
 | `initiator_pubkey` | Public key of the initiating authority |
 | `governance_signature` | Governance-layer signature over `STAMP_HASH` |
 | `safety_signature` | Safety / AI Guard signature over `STAMP_HASH` |
-| `execution_scope` | Explicit, bounded scope of what execution is permitted |
+| `execution_scope` | Explicit, bounded scope of permitted execution |
 | `issued_at_utc` | ISO-8601 UTC issuance timestamp |
 | `expiry_utc` | Optional expiration timestamp (strongly recommended) |
 
@@ -217,7 +228,7 @@ The following are **explicitly forbidden** and MUST cause rejection if present:
 * **Authorization Stamp** → proves *right to execute*
 
 For sovereign or high-impact actions, the Authorization Stamp **SHOULD**
-reference `pai_receipt_hash` to ensure full provenance continuity.
+reference `pai_receipt_hash` to preserve full provenance continuity.
 
 ---
 
@@ -265,3 +276,5 @@ The Authorization Stamp guarantees:
 
 This rule is **constitutionally LOCKED** by the ICBC and
 cannot be overridden by code, policy, emergency powers, or majority vote.
+
+---
