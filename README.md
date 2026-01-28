@@ -1,5 +1,7 @@
 <div align="center">
 
+[![TESL Integrated](https://img.shields.io/badge/TESL-Integrated-blue)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/LICENSES/TESL.md)
+[![Governance](https://img.shields.io/badge/Governance-Sovereign_Compliance-gold)](docs/readiness/ICBC-Readiness-Report-2026.md)
 ![CI](https://github.com/Elmahrosa/Teos-Sovereign-System/actions/workflows/ci.yml/badge.svg?branch=main)
 ![Standing](https://img.shields.io/badge/Standing-Sovereign%20Original%20—%20Elmahrosa%20International-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-TESL%20Sovereign-red?style=for-the-badge)
@@ -24,10 +26,14 @@
 
 # 🇪🇬 *Execution kernel born in Egypt — enforceable by nations worldwide.*
 
-**Governance before execution.  
-Audit before action.  
-Accountability before scale.**
+## Governance & Readiness Reports
+- 📘 **[ICBC Technical & Governance Readiness Report — 2026](docs/readiness/ICBC-Readiness-Report-2026.md)**
 
+**Governance before execution.**  
+**Audit before action.**  
+**Accountability before scale.**
+
+---
 
 # 🧱 Teos-Sovereign-System
 
@@ -80,10 +86,11 @@ This kernel **binds and executes approved authority** — it creates none.
 (**Chain Position #3**) of the **TEOS / Elmahrosa Sovereign Stack**.
 
 It is the **only authorized execution layer** permitted to translate:
+
 - Constitutional doctrine  
 - Governance decisions  
 - Compliance determinations  
-- AI guard and audit outcomes  
+- AI Guard and Audit outcomes  
 
 into **enforceable, auditable runtime execution**.
 
@@ -112,7 +119,7 @@ never sources of sovereignty.
 **Teos-Sovereign-System** is the **operational kernel** responsible for:
 
 - Binding governance-approved decisions to runtime execution  
-- Enforcing compliance outcomes before any action  
+- Enforcing compliance outcomes **before** any action  
 - Coordinating AI Guard and AI Auditor constraints  
 - Routing approved operations to APIs, SDKs, and services  
 - Enforcing suspension, revocation, rollback, and overrides  
@@ -124,18 +131,18 @@ never sources of sovereignty.
 
 ## What This Repository Is Not
 
-- Not a governance engine (see **TEOS-FORGE**)  
-- Not a compliance ruleset (see **TEOS-Egypt-Compliance-Kit**)  
-- Not an AI decision-maker  
-- Not a public API gateway  
-- Not a permissionless protocol or DAO  
-- Not an open-source commercial platform  
+- ❌ Not a governance engine (see **TEOS-FORGE**)  
+- ❌ Not a compliance ruleset (see **TEOS-Egypt-Compliance-Kit**)  
+- ❌ Not an AI decision-maker  
+- ❌ Not a public API gateway  
+- ❌ Not a permissionless protocol or DAO  
+- ❌ Not an open-source commercial platform  
 
 ---
 
 ## Mandatory Execution Chain
 
-All sovereign actions **must** follow this non-bypassable sequence:
+All sovereign actions **must** follow this **non-bypassable sequence**:
 
 **Constitution**  
 → **TEOS-FORGE** (stewardship)  
@@ -152,13 +159,13 @@ Bypassing any step renders the action **unauthorized and non-compliant**.
 
 ## Core Responsibilities
 
-| Domain              | Responsibility                                      |
-|---------------------|-----------------------------------------------------|
-| Authority Binding   | Execute only formally approved decisions            |
-| Compliance Binding  | Block execution on failed jurisdictional checks     |
-| AI Control          | Execute AI outputs only after human approval        |
-| Revocation          | Immediate suspension, rollback, or termination      |
-| Audit Hooks         | Emit immutable evidence for TEOS-AI-Auditor         |
+| Domain            | Responsibility                                  |
+|------------------|--------------------------------------------------|
+| Authority Binding | Execute only formally approved decisions         |
+| Compliance        | Block execution on failed jurisdictional checks  |
+| AI Control        | Execute AI outputs only after human approval     |
+| Revocation        | Immediate suspension, rollback, or termination   |
+| Audit Hooks       | Emit immutable evidence for TEOS-AI-Auditor      |
 
 ---
 
@@ -198,9 +205,12 @@ https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/ma
 ---
 
 **Authority:** Elmahrosa International  
+**Founder:** Ayman Seif  
 📧 ayman@teosegypt.com  
 🌐 https://teosegypt.com  
 
 🇪🇬 *Execution kernel born in Egypt — enforceable by nations worldwide.*
 
-**Governance before execution. Audit before action. Accountability before scale.**
+**Governance before execution.  
+Audit before action.  
+Accountability before scale.**
