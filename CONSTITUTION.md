@@ -8,6 +8,21 @@
 **Governing Law & Venue:** Cairo, Arab Republic of Egypt  
 
 ---
+### Constitutional Specifications (Normative)
+
+This Article is enforced by the following canonical specifications:
+
+- **PAI Receipt (right to engage):** [`06_PAI_RECEIPT_SPEC.md`](./06_PAI_RECEIPT_SPEC.md)  
+  **Canonical Hash (SHA-256):** `571592D856DCC51999B3A766EB4CE1992C7921890376B9B963FCE43BCA13449E`
+
+- **Authorization Stamp (right to execute):** [`docs/09_AUTHORIZATION_STAMP_SPEC.md`](./docs/09_AUTHORIZATION_STAMP_SPEC.md)
+
+- **PAI Anchoring Contract Reference:** [`contracts/PAIRegistry.contract.md`](./contracts/PAIRegistry.contract.md)
+
+Any execution, API, service, contract, or AI process that does not conform to these specifications
+is **constitutionally void**.
+
+
 
 ## 🧭 Preamble
 
