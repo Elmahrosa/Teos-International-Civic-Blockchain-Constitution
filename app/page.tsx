@@ -112,7 +112,7 @@ export default function HomePage() {
                 size="sm"
                 variant="outline"
                 className="gap-2 bg-transparent border-accent text-accent hover:bg-accent/10"
-                onClick={() => window.open("https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution")}
+                onClick={() => window.open("https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution")}
               >
                 <ExternalLink className="w-3 h-3" />
                 <span className="hidden sm:inline">View on GitHub</span>

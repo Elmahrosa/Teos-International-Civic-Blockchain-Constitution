@@ -18,7 +18,7 @@ export function ConstitutionModal({ onSign }: ConstitutionModalProps) {
 
   const petitionUrl =
     "https://www.change.org/p/join-the-movement-sign-the-petition-to-regulate-digital-currencies-in-egypt?recruiter=41912740&recruited_by_id=d23ade40-5e55-0130-269d-3c764e0455b2&utm_source=share_petition&utm_campaign=share_petition&utm_term=share_petition&utm_medium=copylink&utm_content=cl_sharecopy_490544923_en-US%3A4"
-  const githubUrl = "https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution"
+  const githubUrl = "https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution"
 
   const handleSign = async () => {
     if (!user) {

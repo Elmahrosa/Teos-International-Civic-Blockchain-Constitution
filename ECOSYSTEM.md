@@ -19,7 +19,7 @@ This index is intended for:
 ### 1. International Civic Blockchain Constitution (ICBC)
 **Role:** Supreme legal, policy, and governance authority  
 **Repository:**  
-https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
+https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution
 
 This repository defines:
 - Sovereign doctrine

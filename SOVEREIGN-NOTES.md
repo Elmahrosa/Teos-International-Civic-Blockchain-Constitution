@@ -2,7 +2,7 @@
 # TEOS — SOVEREIGN NOTES  
 ## Founder Constitutional Record
 
-**Repository:** International-Civic-Blockchain-Constitution  
+**Repository:** Teos-International-Civic-Blockchain-Constitution  
 **Status:** Active / Canonical  
 **Owner:** Elmahrosa International  
 **Scope:** Constitutional decisions, locked principles, and strategic constraints  

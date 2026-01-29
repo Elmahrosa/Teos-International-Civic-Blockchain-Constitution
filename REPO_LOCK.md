@@ -1,6 +1,6 @@
 # 🔒 **REPO_LOCK — Canonical Hash Registry & Repository Lock**
 
-**Repository:** International-Civic-Blockchain-Constitution (ICBC)
+**Repository:** Teos-International-Civic-Blockchain-Constitution (ICBC)
 **Maintainer / Coordinating Authority:** Elmahrosa International
 **Governing Law & Venue:** Cairo, Arab Republic of Egypt
 **Status:** **CONSTITUTIONALLY LOCKED**
@@ -141,3 +141,6 @@ upon its signed commit to the official ICBC repository.
 > This document is **operative law** within the ICBC system.
 > Hashes recorded herein constitute **legal facts**.
 
+
+## Canonical Repository
+https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution

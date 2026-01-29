@@ -41,7 +41,7 @@
 **Chain Position #3 — Constitutionally Subordinate**
 
 👉 **Supreme Authority:**  
-[International Civic Blockchain Constitution (ICBC)](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution)
+[International Civic Blockchain Constitution (ICBC)](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution)
 
 👉 **Governance Stewardship:**  
 [TEOS-FORGE](https://github.com/Elmahrosa/TEOS-FORGE)
@@ -69,12 +69,12 @@ This repository derives all legitimacy and execution authority **exclusively** f
 **International Civic Blockchain Constitution (ICBC)**.
 
 - **Supreme Charter:**  
-  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
+  https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution
 - **Canonical License (TESL):**  
-  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE.md
+  https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/LICENSE.md
 
 Governance stewardship and lifecycle control are anchored in **TEOS-FORGE**.  
-([Foundational Mandates](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#foundational-mandates))
+([Foundational Mandates](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#foundational-mandates))
 
 This kernel **binds and executes approved authority** — it creates none.
 
@@ -110,7 +110,7 @@ into **enforceable, auditable runtime execution**.
 
 Web3, AI, and distributed systems are **execution instruments only** —  
 never sources of sovereignty.  
-([Sovereignty, Jurisdiction & License](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#sovereignty-jurisdiction--license))
+([Sovereignty, Jurisdiction & License](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#sovereignty-jurisdiction--license))
 
 ---
 
@@ -153,7 +153,7 @@ All sovereign actions **must** follow this **non-bypassable sequence**:
 → **APIs / SDKs / Services**
 
 Bypassing any step renders the action **unauthorized and non-compliant**.  
-([Transparency & Auditability](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#transparency--auditability))
+([Transparency & Auditability](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#transparency--auditability))
 
 ---
 
@@ -200,7 +200,7 @@ Governed exclusively by the
 **TEOS Egypt Sovereign License (TESL)**.
 
 **Canonical License (single source of truth):**  
-https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE.md
+https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/LICENSE.md
 
 ---
 

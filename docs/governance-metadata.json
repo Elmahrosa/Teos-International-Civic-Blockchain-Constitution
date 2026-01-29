@@ -7,12 +7,12 @@
     "human_authority": "Supreme",
     "ai_role": "Decision-Support-Only"
   },
-  "project": "International-Civic-Blockchain-Constitution",
+  "project": "Teos-International-Civic-Blockchain-Constitution",
   "version": "1.0.0",
   "organization": "Elmahrosa",
   "authority": {
-    "icbc": "https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution",
-    "tesl_canonical": "https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE"
+    "icbc": "https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution",
+    "tesl_canonical": "https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/LICENSE"
   },
   "references": {
     "teos_forge": "https://github.com/Elmahrosa/TEOS-FORGE",

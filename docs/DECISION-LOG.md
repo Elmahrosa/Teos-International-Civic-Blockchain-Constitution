@@ -1,6 +1,6 @@
 # 🏛️ TEOS Sovereign Decision Log (v1.0)
 
-**Repository:** International-Civic-Blockchain-Constitution  
+**Repository:** Teos-International-Civic-Blockchain-Constitution  
 **Status:** LOCKED / CANONICAL  
 **Founder:** Ayman Seif  
 **Scope:** Global Sovereign Digital Public Infrastructure  

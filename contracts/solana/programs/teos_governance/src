@@ -1,4 +1,4 @@
-International-Civic-Blockchain-Constitution/
+Teos-International-Civic-Blockchain-Constitution/
 ├─ contracts/
 │   ├─ solana/
 │   │   ├─ Cargo.toml                 ← Rust project manifest
