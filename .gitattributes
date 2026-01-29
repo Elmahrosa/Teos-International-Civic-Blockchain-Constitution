@@ -1,8 +1,8 @@
-* text=auto eol=lf
+* text=auto
 
-*.md text eol=lf
-*.yml text eol=lf
-*.yaml text eol=lf
-*.json text eol=lf
-*.sha256 text eol=lf
-CODEOWNERS text eol=lf
+# Root of Trust must be deterministic across OS
+REPO_LOCK.md     text eol=lf
+CONSTITUTION.md  text eol=lf
+LICENSE.md       text eol=lf
+HASHES.sha256    text eol=lf
+docs/*.md        text eol=lf
