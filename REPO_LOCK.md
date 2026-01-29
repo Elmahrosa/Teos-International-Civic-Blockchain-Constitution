@@ -144,3 +144,24 @@ upon its signed commit to the official ICBC repository.
 
 ## Canonical Repository
 https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution
+---
+
+## Root-of-Trust Definition
+
+The following files constitute the **exclusive Root of Trust** for this repository.
+Any modification to these files **MUST** be accompanied by regeneration of
+`HASHES.sha256` and a signed commit.
+
+**Authoritative Files:**
+- `REPO_LOCK.md`
+- `CONSTITUTION.md`
+- `docs/AUTHORITY-CHAIN.md`
+- `LICENSE.md`
+
+**Non-Authoritative Mirrors (Excluded from Root Hashes):**
+- `docs/CONSTITUTION.md` — Canonical mirror of `CONSTITUTION.md`.  
+  This file is **derived** and **must not** be edited directly.
+
+**Verification:**
+- Integrity is verified via `sha256sum -c HASHES.sha256`.
+- A clean verification is mandatory before release or governance actions.
