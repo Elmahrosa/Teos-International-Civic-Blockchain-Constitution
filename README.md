@@ -181,7 +181,7 @@ APIs / SDKs / Services
 
 Bypassing any step renders the action **unauthorized and non-compliant**.
 Transparency & auditability:
-[https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#transparency--auditability](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#transparency--auditability)
+https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#transparency--auditability
 
 ---
 
