@@ -76,7 +76,7 @@ If **yes**, confirm:
 - ☐ **Medium** — Governance clarification (no logic change)  
 - ☐ **High** — Root-of-Trust or constitutional text (requires heightened scrutiny)
 
-**Risk Notes (if any):**
+**Risk Notes (if any):** <!-- e.g., 'This change impacts X, requiring heightened review due to Y.' -->
 
 ---
 
