@@ -63,10 +63,10 @@ If **yes**, confirm:
 
 ## 🧪 Verification & Checks
 
-- ☐ `verify-root-of-trust` status check passes
-- ☐ No CI rules are bypassed
-- ☐ Changes are auditable and reviewable
-- ☐ No secrets, keys, or credentials included
+- [ ] `verify-root-of-trust` status check passes
+- [ ] No CI rules are bypassed
+- [ ] Changes are auditable and reviewable
+- [ ] No secrets, keys, or credentials included
 
 ---
 
