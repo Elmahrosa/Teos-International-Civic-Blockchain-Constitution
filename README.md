@@ -1,217 +1,174 @@
+
 <div align="center">
 
-[![TESL Integrated](https://img.shields.io/badge/TESL-Integrated-blue)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/LICENSES/TESL.md)
-[![Governance](https://img.shields.io/badge/Governance-Sovereign_Compliance-gold)](docs/readiness/ICBC-Readiness-Report-2026.md)
-![CI](https://github.com/Elmahrosa/Teos-Sovereign-System/actions/workflows/ci.yml/badge.svg?branch=main)
-![Standing](https://img.shields.io/badge/Standing-Sovereign%20Original%20—%20Elmahrosa%20International-blue?style=for-the-badge)
+![Standing](https://img.shields.io/badge/Standing-Supreme%20Charter%20—%20International-blue?style=for-the-badge)
+![Governance](https://img.shields.io/badge/Governance-Constitutional%20Authority-gold?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-TESL%20Sovereign-red?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Elmahrosa/Teos-Sovereign-System?style=social)
+![Status](https://img.shields.io/badge/Status-Canonical%20Source-black?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Elmahrosa/Teos-International-Civic-Blockchain-Constitution?style=social)
 
 </div>
 
-<!-- Discoverability & institutional indexing -->
 <div align="center">
-  <p><strong>GitHub Topics</strong></p>
-  <p>
-    <a href="https://github.com/topics/sovereign-blockchain"><img src="https://img.shields.io/badge/sovereign--blockchain-000?style=flat&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/topics/digital-public-infrastructure"><img src="https://img.shields.io/badge/digital--public--infrastructure-000?style=flat&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/topics/civic-governance"><img src="https://img.shields.io/badge/civic--governance-000?style=flat&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/topics/tesl"><img src="https://img.shields.io/badge/tesl-000?style=flat&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/topics/sovereign-execution-kernel"><img src="https://img.shields.io/badge/sovereign--execution--kernel-000?style=flat&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/topics/dpi-execution"><img src="https://img.shields.io/badge/dpi--execution-000?style=flat&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/topics/compliance-enforcement"><img src="https://img.shields.io/badge/compliance--enforcement-000?style=flat&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/topics/teos-sovereign-system"><img src="https://img.shields.io/badge/teos--sovereign--system-000?style=flat&logo=github&logoColor=white" /></a>
-  </p>
+
+# 🏛️ Teos International Civic Blockchain Constitution  
+### **Supreme Charter of the TEOS Sovereign Stack**
+
+🇪🇬 *Authored in Egypt — enforceable by institutions and nations worldwide.*
+
+**Law before code.**  
+**Governance before execution.**  
+**Human authority before automation.**
+
 </div>
 
-# 🇪🇬 *Execution kernel born in Egypt — enforceable by nations worldwide.*
+---
 
-## Governance & Readiness Reports
-- 📘 **[ICBC Technical & Governance Readiness Report — 2026](docs/readiness/ICBC-Readiness-Report-2026.md)**
+## Overview
 
-**Governance before execution.**  
-**Audit before action.**  
-**Accountability before scale.**
+The **Teos International Civic Blockchain Constitution (ICBC)** is the **supreme legal,
+governance, and authority charter** of the TEOS ecosystem.
+
+It establishes the constitutional foundations governing:
+
+- Sovereignty and jurisdiction  
+- Governance legitimacy and authority flow  
+- The lawful limits of automation and artificial intelligence  
+- Compliance, auditability, and institutional accountability  
+
+No system, repository, contract, or AI component may claim authority
+**outside or above** this Constitution.
 
 ---
 
-# 🧱 Teos-Sovereign-System
+## Constitutional Standing
 
-**Sovereign Execution Kernel for Governed Digital Public Infrastructure**  
-**Chain Position #3 — Constitutionally Subordinate**
+- **Chain Position:** #1 — Supreme Charter  
+- **Scope:** International · Civic · Sovereign  
+- **Authority Type:** Human institutional authority codified into enforceable doctrine  
 
-👉 **Supreme Authority:**  
-[International Civic Blockchain Constitution (ICBC)](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution)
+This repository is the **single canonical source of truth** for:
 
-👉 **Governance Stewardship:**  
-[TEOS-FORGE](https://github.com/Elmahrosa/TEOS-FORGE)
+- Sovereignty doctrine  
+- Governance legitimacy  
+- Execution authorization  
+- Licensing (TESL)  
+- Audit and accountability principles  
 
----
-
-## Table of Contents
-
-- [Constitutional Authority](#constitutional-authority)
-- [Repository Standing](#repository-standing)
-- [Sovereign Doctrine](#sovereign-doctrine)
-- [What This Repository Is](#what-this-repository-is)
-- [What This Repository Is Not](#what-this-repository-is-not)
-- [Mandatory Execution Chain](#mandatory-execution-chain)
-- [Core Responsibilities](#core-responsibilities)
-- [Ecosystem Dependencies](#ecosystem-dependencies)
-- [Usage Notice](#usage-notice)
-- [License](#license)
-
----
-
-## Constitutional Authority
-
-This repository derives all legitimacy and execution authority **exclusively** from the  
-**International Civic Blockchain Constitution (ICBC)**.
-
-- **Supreme Charter:**  
-  https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution
-- **Canonical License (TESL):**  
-  https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/LICENSE.md
-
-Governance stewardship and lifecycle control are anchored in **TEOS-FORGE**.  
-([Foundational Mandates](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#foundational-mandates))
-
-This kernel **binds and executes approved authority** — it creates none.
-
----
-
-## Repository Standing
-
-**Teos-Sovereign-System** is the **sovereign execution kernel**  
-(**Chain Position #3**) of the **TEOS / Elmahrosa Sovereign Stack**.
-
-It is the **only authorized execution layer** permitted to translate:
-
-- Constitutional doctrine  
-- Governance decisions  
-- Compliance determinations  
-- AI Guard and Audit outcomes  
-
-into **enforceable, auditable runtime execution**.
-
-**Founding Authority:** Elmahrosa International — TEOS Egypt  
-**Founder:** Ayman Seif
-
----
-
-## Sovereign Doctrine
-
-**Born in Egypt for the World**  
-*Built in Egypt. Engineered for Nations. Scaled for the World.*
-
-- Governance precedes execution  
-- Institutions precede protocols  
-- Humans precede AI  
-
-Web3, AI, and distributed systems are **execution instruments only** —  
-never sources of sovereignty.  
-([Sovereignty, Jurisdiction & License](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#sovereignty-jurisdiction--license))
+> Any implementation or interpretation that contradicts this Constitution
+> is **constitutionally void**.
 
 ---
 
 ## What This Repository Is
 
-**Teos-Sovereign-System** is the **operational kernel** responsible for:
+This repository **is**:
 
-- Binding governance-approved decisions to runtime execution  
-- Enforcing compliance outcomes **before** any action  
-- Coordinating AI Guard and AI Auditor constraints  
-- Routing approved operations to APIs, SDKs, and services  
-- Enforcing suspension, revocation, rollback, and overrides  
-
-> No API, service, AI system, or application may execute sovereign actions  
-> without passing through this kernel.
+- ✅ The supreme charter of the TEOS ecosystem  
+- ✅ The root of all governance and execution authority  
+- ✅ The canonical source of the **TEOS Egypt Sovereign License (TESL)**  
+- ✅ The framework governing AI, compliance, and execution boundaries  
+- ✅ The reference constitution for national or institutional adoption  
 
 ---
 
 ## What This Repository Is Not
 
-- ❌ Not a governance engine (see **TEOS-FORGE**)  
-- ❌ Not a compliance ruleset (see **TEOS-Egypt-Compliance-Kit**)  
-- ❌ Not an AI decision-maker  
-- ❌ Not a public API gateway  
-- ❌ Not a permissionless protocol or DAO  
-- ❌ Not an open-source commercial platform  
+This repository **is not**:
+
+- ❌ An execution engine or protocol  
+- ❌ A smart contract or DAO  
+- ❌ A public API or SDK  
+- ❌ A commercial open-source framework  
+- ❌ A permissionless blockchain system  
 
 ---
 
-## Mandatory Execution Chain
+## Authority Flow (Non-Negotiable)
 
-All sovereign actions **must** follow this **non-bypassable sequence**:
+All authority flows **downward only**:
 
-**Constitution**  
-→ **TEOS-FORGE** (stewardship)  
-→ **TEOS-Governance** (policy)  
-→ **Compliance Layer**  
-→ **AI Guard / AI Auditor**  
-→ **Teos-Sovereign-System** (this kernel)  
-→ **APIs / SDKs / Services**
+```text
+Teos International Civic Blockchain Constitution (ICBC)
+                    ↓
+                TEOS-FORGE
+                    ↓
+           Governance Frameworks
+                    ↓
+         Compliance & AI Controls
+                    ↓
+        Sovereign Execution Systems
+                    ↓
+            APIs / SDKs / Services
+````
 
-Bypassing any step renders the action **unauthorized and non-compliant**.  
-([Transparency & Auditability](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/CONSTITUTION.md#transparency--auditability))
-
----
-
-## Core Responsibilities
-
-| Domain            | Responsibility                                  |
-|------------------|--------------------------------------------------|
-| Authority Binding | Execute only formally approved decisions         |
-| Compliance        | Block execution on failed jurisdictional checks  |
-| AI Control        | Execute AI outputs only after human approval     |
-| Revocation        | Immediate suspension, rollback, or termination   |
-| Audit Hooks       | Emit immutable evidence for TEOS-AI-Auditor      |
+⬆️ **Execution never creates authority.**
 
 ---
 
-## Ecosystem Dependencies
+## Repository Structure
 
-This kernel integrates with and defers to:
-
-- **TEOS-Governance** — policy & authority rules  
-- **TEOS-Egypt-Compliance-Kit** — jurisdictional enforcement  
-- **TEOS-AI-Guard** — AI safety gates  
-- **TEOS-AI-Auditor** — audit & evidence export  
-- **TEOS-Identity-Insight-AI** — identity risk intelligence  
-- **TEOS-API-Sovereign** — governed API / SDK gateway  
-
-All downstream systems **must defer to this kernel**.
-
----
-
-## Usage Notice
-
-Any deployment, fork, or integration that bypasses governance,  
-compliance, or audit requirements is **invalid and unauthorized**.
-
-Artificial intelligence is **decision-support only**.  
-**Final authority remains human and sovereign.**
+```text
+/
+├─ CONSTITUTION.md      # Binding constitutional charter
+├─ LICENSE.md           # TESL — Sovereign License (canonical)
+├─ REPO_LOCK.md         # Root of Trust & immutability rules
+├─ annexes/             # Binding annexes and technical schedules
+├─ docs/                # Readiness, adoption, and references
+└─ README.md            # This file
+```
 
 ---
 
-## License
+## License — TESL
 
-Governed exclusively by the  
+All materials in this repository are governed exclusively by the
 **TEOS Egypt Sovereign License (TESL)**.
 
-**Canonical License (single source of truth):**  
-https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/LICENSE.md
+* **Canonical license (single source of truth):**
+  [https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/LICENSE.md](https://github.com/Elmahrosa/Teos-International-Civic-Blockchain-Constitution/blob/main/LICENSE.md)
+
+TESL enforces:
+
+* Sovereign attribution
+* Non-forkability of authority
+* Institutional usage constraints
+* Prohibition of false or misleading claims of sovereignty
 
 ---
 
-**Authority:** Elmahrosa International  
-**Founder:** Ayman Seif  
-📧 ayman@teosegypt.com  
-🌐 https://teosegypt.com  
+## Adoption & Usage
 
-🇪🇬 *Execution kernel born in Egypt — enforceable by nations worldwide.*
+This Constitution may be **referenced** by:
 
-**Governance before execution.  
-Audit before action.  
-Accountability before scale.**
-x
+* Governments
+* Public institutions
+* Civic digital infrastructure programs
+* Academic, legal, and policy research
+
+Any **execution, deployment, or commercialization**
+requires **explicit constitutional compliance**
+and licensing review under TESL.
+
+---
+
+## Final Doctrine
+
+> **Law governs code.**
+> **Humans govern systems.**
+> **AI assists — it never rules.**
+
+---
+
+<div align="center">
+
+**Founding Authority:** Elmahrosa International
+**Founder & Constitutional Author:** Ayman Seif
+
+📧 [ayman@teosegypt.com](mailto:ayman@teosegypt.com)
+🌐 [https://teosegypt.com](https://teosegypt.com)
+
+🇪🇬 *A civic constitution authored in Egypt — designed for the world.*
+
+</div>
+```
