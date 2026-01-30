@@ -10,11 +10,11 @@
 **What does this Pull Request do?**  
 Provide a concise, factual description of the change.
 
-- ☐ Documentation update  
-- ☐ Governance clarification  
-- ☐ Root-of-Trust maintenance  
-- ☐ Compliance / policy alignment  
-- ☐ Other (explain below)
+- [ ] Documentation update  
+- [ ] Governance clarification  
+- [ ] Root-of-Trust maintenance  
+- [ ] Compliance / policy alignment  
+- [ ] Other (explain below)
 
 ---
 
