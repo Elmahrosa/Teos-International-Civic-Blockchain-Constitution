@@ -37,12 +37,12 @@ Provide a concise, factual description of the change.
 
 **Does this PR modify any Root-of-Trust artifact?**
 
-- ☐ REPO_LOCK.md  
-- ☐ CONSTITUTION.md  
-- ☐ docs/AUTHORITY-CHAIN.md  
-- ☐ LICENSE.md  
-- ☐ HASHES.sha256  
-- ☐ No (documentation-only)
+- [ ] REPO_LOCK.md  
+- [ ] CONSTITUTION.md  
+- [ ] docs/AUTHORITY-CHAIN.md  
+- [ ] LICENSE.md  
+- [ ] HASHES.sha256  
+- [ ] No (documentation-only)
 
 If **yes**, confirm:
 - ☐ HASHES.sha256 has been regenerated
