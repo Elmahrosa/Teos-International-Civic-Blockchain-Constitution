@@ -52,10 +52,10 @@ If **yes**, confirm:
 
 ## ⚖️ Governance & Authority Check
 
-- ☐ This PR does **not** create new authority
-- ☐ This PR only **binds or clarifies existing authority**
-- ☐ No governance logic is bypassed
-- ☐ No execution logic is introduced
+- [ ] This PR does **not** create new authority
+- [ ] This PR only **binds or clarifies existing authority**
+- [ ] No governance logic is bypassed
+- [ ] No execution logic is introduced
 
 > **Reminder:** This repository binds authority — it never creates it.
 
