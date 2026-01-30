@@ -45,8 +45,8 @@ Provide a concise, factual description of the change.
 - [ ] No (documentation-only)
 
 If **yes**, confirm:
-- ☐ HASHES.sha256 has been regenerated
-- ☐ No unauthorized files were added to Root-of-Trust
+- [ ] HASHES.sha256 has been regenerated
+- [ ] No unauthorized files were added to Root-of-Trust
 
 ---
 
