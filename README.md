@@ -212,4 +212,6 @@ constitutional compliance** and licensing review under TESL.
 </div>
 ```
 
----
+**Governance before execution.  
+Audit before action.  
+Accountability before scale.**
