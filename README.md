@@ -66,7 +66,7 @@ All components of the TEOS stack are governed by the **TEOS Egypt Sovereign Lice
 The ICBC is designed for:
 * **National Governments** seeking vendor-independent Digital Identity.
 * **Intergovernmental Organizations (IFIs)** requiring auditable grant and data flows.
-* **Central Banks** evaluating secure, policy-governed infrastructure.
+* **Central Banks** as a target audience for secure, policy-governed infrastructure.
 * **Smart City Authorities** implementing auditable civic services.
 
 ---

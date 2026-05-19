@@ -137,6 +137,6 @@ External Applications, Institutions, Nations & Partners <span class="badge badge
 
 <span class="badge badge-success">Status: PRODUCTION</span>
 
-**Certified under Founder-Controlled Constitutional Authority** <span class="badge badge-primary">Elmahrosa International — TEOS Egypt</span>
+**Issued under Founder-Controlled Constitutional Authority** — Elmahrosa International, TEOS Egypt
 
 *<span class="badge badge-info">Born in Egypt. Engineered for Nations. Scaled for the World.</span>*
