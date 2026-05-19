@@ -73,8 +73,8 @@ No Pull Requests were accepted during review window.
 - No autonomous governance or DAO-style control is active.
 
 ### 3. Compliance & Regulation
-- Alignment with **ISO 27001, NIST, and GovStack v1.0** is established.
-- Jurisdictional enforcement via Compliance Kit is declared **institution-ready**.
+- Self-assessed alignment with **ISO 27001, NIST, and GovStack v1.0**; no third-party audit has been conducted.
+- Jurisdictional enforcement via Compliance Kit is **self-declared institution-ready**.
 
 ### 4. AI Safety
 - Human-in-the-loop enforcement via **TEOS-AI-Guard** is configured.
