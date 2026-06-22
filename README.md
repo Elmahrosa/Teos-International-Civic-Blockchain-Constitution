@@ -2,7 +2,7 @@
 
 # 🏛️ International Civic Blockchain Constitution (ICBC)
 
-### Constitutional Framework for Sovereign Digital Public Infrastructure
+### Governance Framework for Sovereign-Aligned Digital Public Infrastructure
 
 ![Standing](https://img.shields.io/badge/Standing-Constitutional%20Framework-blue?style=for-the-badge)
 ![Governance](https://img.shields.io/badge/Governance-Policy%20Authority-gold?style=for-the-badge)
@@ -17,7 +17,7 @@
 
 ## 📜 Executive Summary
 
-The **International Civic Blockchain Constitution (ICBC)** serves as the foundational governance framework of the TEOS ecosystem. It establishes the policy, governance, and operational principles required to support **Sovereign Digital Public Infrastructure (DPI)**.
+The **International Civic Blockchain Constitution (ICBC)** serves as the foundational governance framework of the TEOS ecosystem. It establishes the policy, governance, and operational principles required to support **Sovereign-Aligned Digital Public Infrastructure (DPI)**.
 
 Unlike traditional permissionless systems, the ICBC places authority in accountable human institutions and policy frameworks. It ensures that digital systems, automated processes, and AI-assisted operations remain transparent, auditable, and aligned with lawful governance.
 
@@ -37,6 +37,9 @@ Components of the TEOS ecosystem are designed to support policy enforcement and 
 
 ### 3. Scope of Authority
 The Chain of Authority defined within this framework governs the intended operation of the TEOS ecosystem and its participating implementations. It does not assert jurisdiction, control, or legal authority over external organizations or third-party systems unless established through a formal integration agreement.
+
+### 4. Intellectual and Governance Independence
+References to implementation repositories are provided for transparency and auditability. The constitutional framework remains independent of any specific software implementation, repository structure, deployment environment, or technology vendor.
 
 ---
 
@@ -77,12 +80,7 @@ The TEOS governance model follows a structured and non-bypassable flow of author
    Operational Runtime and Service Infrastructure
 
 ### Implementation References
-The constitutional layers above are materialized through separate, modular implementation repositories to ensure architectural security and separation of concerns:
-
-* **TEOS-FORGE** — Infrastructure Integration Layer
-* **agent-code-risk-mcp** — Runtime Governance & Policy Engine
-* **TEOS Sentinel Shield** — AI Governance, Audit & Compliance Services
-* **TEOS Bot** — Operational Service Layer
+The constitutional layers above are materialized through separate, modular implementation repositories to ensure architectural security and separation of concerns. For the official mapping of functional layers to specific repositories, see [ANNEX_IMPLEMENTATIONS.md](./ANNEX_IMPLEMENTATIONS.md).
 
 ---
 
@@ -95,7 +93,8 @@ This repository serves as the governance reference for the constitutional framew
 * **LICENSE.md** — TEOS Egypt Sovereign License (TESL)
 * **REPO_LOCK.md** — Governance integrity and repository verification records
 
-### Supporting Materials
+### Annexes
+* **ANNEX_IMPLEMENTATIONS.md** — Mapping of constitutional layers to technical repositories
 * **annexes/** — Technical standards, digital identity specifications, interoperability schedules, and implementation guidance
 
 ---
