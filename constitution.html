@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Constitution — Elmahrosa International</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#18150F;
+    --ink-soft:#4A4438;
+    --paper:#EFE8D8;
+    --paper-2:#E4DBC5;
+    --gold:#B9872A;
+    --gold-deep:#8E6A20;
+    --sage:#4B6358;
+    --rust:#8B4A2B;
+    --line:#D3C6A2;
+    --radius:2px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans',sans-serif;
+    line-height:1.6;
+  }
+  .display{font-family:'Fraunces',serif;}
+  .mono{font-family:'IBM Plex Mono',monospace;}
+
+  a{color:inherit;}
+
+  /* ===== TOP BAR ===== */
+  .topbar{
+    position:sticky; top:0; z-index:20;
+    display:flex; align-items:center; justify-content:space-between;
+    padding:18px 40px;
+    background:rgba(239,232,216,0.92);
+    backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--line);
+  }
+  .brand{
+    font-family:'Fraunces',serif;
+    font-weight:600; font-size:17px; letter-spacing:0.01em;
+  }
+  .brand span{color:var(--gold-deep);}
+  .topnav{display:flex; gap:28px; font-size:13.5px;}
+  .topnav a{
+    text-decoration:none; color:var(--ink-soft);
+    padding-bottom:2px; border-bottom:1px solid transparent;
+    transition:border-color .15s, color .15s;
+  }
+  .topnav a:hover{color:var(--ink); border-color:var(--gold);}
+
+  /* ===== HERO / DOCUMENT HEADER ===== */
+  .doc-header{
+    max-width:900px; margin:0 auto;
+    padding:96px 40px 60px;
+    text-align:center;
+    position:relative;
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px; letter-spacing:.18em; text-transform:uppercase;
+    color:var(--gold-deep);
+    margin-bottom:26px;
+  }
+  .doc-header h1{
+    font-family:'Fraunces',serif; font-optical-sizing:auto;
+    font-weight:500; font-size:clamp(38px,6vw,64px);
+    line-height:1.06; margin:0 0 20px;
+    letter-spacing:-0.01em;
+  }
+  .doc-sub{
+    max-width:560px; margin:0 auto 40px;
+    color:var(--ink-soft); font-size:17px;
+  }
+
+  /* ratification seal */
+  .seal{
+    width:118px; height:118px; margin:0 auto 34px;
+    border-radius:50%;
+    border:1.5px solid var(--gold);
+    display:flex; align-items:center; justify-content:center;
+    position:relative;
+  }
+  .seal::before{
+    content:''; position:absolute; inset:9px;
+    border:1px solid var(--gold); border-radius:50%;
+  }
+  .seal-inner{
+    font-family:'IBM Plex Mono',monospace;
+    text-align:center; line-height:1.3;
+  }
+  .seal-inner .v{ font-size:20px; font-weight:500; color:var(--gold-deep); display:block;}
+  .seal-inner .s{ font-size:9px; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-soft); display:block; margin-top:2px;}
+
+  .meta-row{
+    display:flex; justify-content:center; gap:36px; flex-wrap:wrap;
+    font-family:'IBM Plex Mono',monospace; font-size:12.5px; color:var(--ink-soft);
+    padding-top:26px; border-top:1px solid var(--line);
+  }
+  .meta-row b{color:var(--ink); font-weight:500;}
+
+  /* ===== SECTION SHELL ===== */
+  section{
+    max-width:900px; margin:0 auto;
+    padding:70px 40px;
+    border-top:1px solid var(--line);
+  }
+  .article-label{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px; letter-spacing:.16em; text-transform:uppercase;
+    color:var(--gold-deep); margin-bottom:14px;
+  }
+  h2{
+    font-family:'Fraunces',serif; font-weight:500;
+    font-size:clamp(26px,3.6vw,36px); margin:0 0 22px; letter-spacing:-0.01em;
+  }
+  section > p.lede{ font-size:17px; color:var(--ink-soft); max-width:640px; margin-bottom:34px;}
+
+  /* ===== MISSION QUOTE ===== */
+  .mission-quote{
+    font-family:'Fraunces',serif; font-weight:500;
+    font-size:clamp(21px,2.6vw,28px); line-height:1.45;
+    max-width:680px; color:var(--ink);
+    border-left:2px solid var(--gold);
+    padding-left:26px;
+  }
+  .mission-quote em{ display:block; margin-top:14px; font-size:16px; font-style:normal; color:var(--ink-soft);}
+
+  /* ===== VALUES GRID ===== */
+  .values-grid{
+    display:grid; grid-template-columns:repeat(2,1fr); gap:1px;
+    background:var(--line); border:1px solid var(--line); margin-top:8px;
+  }
+  .value-cell{ background:var(--paper); padding:22px 24px;}
+  .value-cell .num{ font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--gold-deep); display:block; margin-bottom:8px;}
+  .value-cell p{ margin:0; font-size:15px;}
+
+  /* ===== PRIORITY CHAIN ===== */
+  .chain{
+    display:flex; align-items:center; flex-wrap:wrap; gap:0;
+    font-family:'IBM Plex Mono',monospace; font-size:13.5px;
+    margin-top:6px;
+  }
+  .chain .node{
+    padding:9px 16px; border:1px solid var(--gold); border-radius:999px;
+    color:var(--gold-deep); background:rgba(185,135,42,0.06);
+  }
+  .chain .arrow{ padding:0 10px; color:var(--ink-soft);}
+
+  /* ===== PRODUCT PORTFOLIO ===== */
+  .products{ display:grid; grid-template-columns:1fr; gap:1px; background:var(--line); border:1px solid var(--line); margin-top:8px;}
+  .product-row{
+    background:var(--paper); padding:24px 26px;
+    display:grid; grid-template-columns:170px 1fr 190px; gap:24px; align-items:start;
+  }
+  .product-row .pname{ font-family:'Fraunces',serif; font-weight:500; font-size:19px;}
+  .product-row .pname small{display:block; font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--gold-deep); font-weight:400; margin-top:4px; letter-spacing:.05em;}
+  .product-row .pdesc{ font-size:14.5px; color:var(--ink-soft);}
+  .badge{
+    display:inline-flex; align-items:center; gap:6px;
+    font-family:'IBM Plex Mono',monospace; font-size:11px;
+    padding:5px 10px; border-radius:999px; white-space:nowrap; height:fit-content;
+  }
+  .badge.sage{ color:var(--sage); border:1px solid var(--sage); background:rgba(75,99,88,0.07);}
+  .badge.rust{ color:var(--rust); border:1px solid var(--rust); background:rgba(139,74,43,0.07);}
+  .badge.gold{ color:var(--gold-deep); border:1px solid var(--gold); background:rgba(185,135,42,0.07);}
+  .badge::before{ content:''; width:6px; height:6px; border-radius:50%; background:currentColor;}
+
+  @media (max-width:700px){
+    .product-row{ grid-template-columns:1fr;}
+    .values-grid{ grid-template-columns:1fr;}
+  }
+
+  /* ===== FLYWHEEL ===== */
+  .flywheel{
+    display:flex; flex-wrap:wrap; gap:10px; align-items:center;
+    font-family:'IBM Plex Mono',monospace; font-size:13px; margin-top:8px;
+  }
+  .fw-step{ padding:10px 14px; border:1px solid var(--line); background:var(--paper-2); border-radius:2px;}
+  .fw-arrow{ color:var(--gold-deep);}
+
+  /* ===== ARCHITECTURE DIAGRAM ===== */
+  .arch-tree{
+    font-family:'IBM Plex Mono',monospace; font-size:13px; line-height:1.9;
+    background:var(--ink); color:var(--paper);
+    padding:28px 30px; border-radius:2px; margin-top:8px; overflow-x:auto;
+    white-space:pre;
+  }
+  .arch-tree .gold{ color:#E3B24C;}
+
+  /* ===== GOVERNANCE PRINCIPLES LIST ===== */
+  .rule-list{ margin-top:8px; }
+  .rule{
+    display:flex; gap:16px; padding:16px 0; border-bottom:1px solid var(--line);
+  }
+  .rule:last-child{ border-bottom:none;}
+  .rule .tag{ font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--gold-deep); width:64px; flex-shrink:0; padding-top:2px;}
+  .rule p{ margin:0; font-size:15px;}
+
+  /* ===== VISION 2030 ===== */
+  .vision-block{
+    background:var(--ink); color:var(--paper);
+    padding:56px 46px; border-radius:2px; margin-top:8px;
+  }
+  .vision-block .article-label{ color:#E3B24C;}
+  .vision-block p{ font-family:'Fraunces',serif; font-size:19px; line-height:1.7; max-width:640px; margin:0 0 10px;}
+
+  /* ===== DOCS TREE ===== */
+  .docs-tree{
+    font-family:'IBM Plex Mono',monospace; font-size:13px; line-height:1.85;
+    color:var(--ink-soft); margin-top:8px; white-space:pre;
+  }
+  .docs-tree .live{ color:var(--sage); font-weight:500;}
+  .docs-tree .planned{ color:var(--ink-soft);}
+
+  /* ===== CHANGELOG ===== */
+  .cl-entry{ padding:16px 0; border-bottom:1px solid var(--line); display:flex; gap:20px;}
+  .cl-entry:last-child{ border-bottom:none;}
+  .cl-ver{ font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--gold-deep); width:110px; flex-shrink:0; padding-top:2px;}
+  .cl-entry p{ margin:0; font-size:14.5px; color:var(--ink-soft);}
+
+  footer{
+    max-width:900px; margin:0 auto; padding:50px 40px 90px;
+    display:flex; justify-content:space-between; align-items:center;
+    flex-wrap:wrap; gap:16px;
+    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft);
+  }
+  .freeze-note{
+    max-width:900px; margin:0 auto; padding:0 40px 50px;
+    font-family:'IBM Plex Mono',monospace; font-size:12.5px; color:var(--ink-soft);
+    text-align:center; font-style:normal;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    html{scroll-behavior:auto;}
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="brand">ELMAHROSA <span>/ constitution</span></div>
+  <nav class="topnav">
+    <a href="#mission">Mission</a>
+    <a href="#values">Values</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#architecture">Architecture</a>
+    <a href="#governance-rules">Governance</a>
+    <a href="#transparency">Transparency</a>
+    <a href="#vision">2030</a>
+    <a href="#amendment">Amendments</a>
+    <a href="#changelog">Changelog</a>
+  </nav>
+</div>
+
+<header class="doc-header">
+  <div class="eyebrow">Elmahrosa Constitution</div>
+  <div class="seal">
+    <div class="seal-inner"><span class="v">v1.0</span><span class="s">Ratified</span></div>
+  </div>
+  <h1>The Elmahrosa<br>Constitution</h1>
+  <p class="doc-sub">The canonical governance framework for Elmahrosa International, defining the principles that guide strategic, technical, product, and organizational decisions.</p>
+  <div class="meta-row">
+    <span>Version: <b>1.0</b></span>
+    <span>Ratified: <b>August 2026</b></span>
+    <span>Status: <b>Active</b></span>
+    <span>Last updated: <b>2026-08-02</b></span>
+  </div>
+</header>
+
+<!-- rest of file omitted for brevity; full content was created from attachment -->
+</body>
+</html>
