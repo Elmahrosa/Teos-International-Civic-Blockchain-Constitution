@@ -5,7 +5,7 @@
 
 ```mermaid
 flowchart TD
-  A[ICBC<br/>International Civic Blockchain Constitution<br/>Supreme Authority]
+  A[ICBC<br/>International Civic Blockchain Constitution<br/>Primary Governance Reference]
   B[TEOS-FORGE<br/>Stewardship & Lifecycle Control]
   C[TEOS-Governance<br/>Policy & Decision Authority<br/>No DAO / No Voting]
   D[Compliance Layer<br/>Jurisdictional Enforcement]
@@ -93,7 +93,7 @@ flowchart TD
 
 ## ✅ Verdict
 
-The ICBC repository represents **more than software** — it is a **Sovereign Operating System for Digital Public Infrastructure**.
+The ICBC repository represents more than software — it is a governance-aligned platform design for digital public infrastructure, suitable for controlled institutional deployments subject to local legal authorization.
 
 - **Production-ready** for legal, civic, and institutional frameworks.  
 - Suitable for **controlled national or institutional pilots**.  

@@ -11,6 +11,8 @@
 
 **Law governs Code. Humans govern Systems. AI serves Authority.**
 
+Within Elmahrosa's governance framework, this principle reflects organizational governance and system design. It does not imply governmental authority or legal force.
+
 </div>
 
 ---

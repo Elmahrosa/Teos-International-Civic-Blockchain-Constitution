@@ -12,21 +12,21 @@
 This document establishes the **Repository Lock** and **Canonical Hash Registry**
 for the **International Civic Blockchain Constitution (ICBC)**.
 
-It has **binding constitutional force**.
+It is an authoritative repository lock and canonical governance record for the ICBC.
 
 From the moment this file is committed:
 
 - This repository becomes the **immutable root of authority**
 - This repository is the **sole canonical source** of the ICBC
-- Any unauthorized change is **null, void, and without legal or technical effect**
+- Unauthorized changes are rejected by the repository integrity processes and treated as non-canonical.
 
-This file is **operative constitutional law**, not documentation.
+This file documents repository integrity and canonical hashes; it is an authoritative governance artifact, not a legal instrument.
 
 ---
 
 ## 2. Constitutional Supremacy
 
-The ICBC is the **highest authority** in the TEOS / Elmahrosa Sovereign Stack.
+The ICBC is the primary governance reference for the TEOS ecosystem; human institutions remain responsible for legal enactment.
 
 Authority flows strictly downward:
 
