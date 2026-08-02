@@ -10,7 +10,7 @@
 
 **Version:** 1.0  
 **Ratified:** 2025-12-31  
-**Status:** Supreme Governance Charter  
+**Status:** Governance framework / organizational policy  
 **Coordinating Authority:** Elmahrosa International  
 **Governing Law & Venue:** Cairo, Arab Republic of Egypt  
 
@@ -26,8 +26,7 @@ This Article is enforced by the following canonical specifications:
 
 - **PAI Anchoring Contract Reference:** [`contracts/PAIRegistry.contract.md`](./contracts/PAIRegistry.contract.md)
 
-Any execution, API, service, contract, or AI process that does not conform to these specifications
-is **constitutionally void**.
+Any execution, API, service, contract, or AI process that does not conform to these specifications is treated as non-compliant with the ICBC governance framework and subject to institutional remediation.
 
 
 
@@ -42,7 +41,7 @@ administration, and public order.
 This Constitution transforms Egyptian civic governance principles into
 **exportable, nation-ready Digital Public Infrastructure (DPI)**.
 
-This document constitutes the **highest authority** governing all TEOS protocols,
+This document provides the organization's internal governance framework and policy; it does not by itself create governmental authority or legally binding obligations on third parties.
 registries, validators, institutions, contributors, deployments, and integrations.
 
 No technical system, smart contract, vote, automation, or AI process may supersede
@@ -100,7 +99,7 @@ They are obligated to:
 - Maintain immutable governance logs
 
 ### ⚖ Constitutional Council (CC)
-The Constitutional Council is the **supreme interpretive authority** and may:
+The Constitutional Council is the recognized internal interpretive body for ICBC governance matters and may:
 - Confirm constitutional alignment
 - Approve or reject proposal admissibility
 - Suspend or nullify unconstitutional actions
@@ -118,7 +117,7 @@ No proposal may bypass any stage.
 4. Validator vote (**⅔ supermajority required**)
 5. Immutable logging **prior to execution**
 
-Execution without logging is **constitutionally void**.
+Execution without logging is considered non-compliant with the ICBC governance procedures.
 
 ---
 
@@ -231,7 +230,7 @@ Signed under one sovereign charter.
    c. Passed mandatory governance and safety controls  
 
 3. Any execution lacking a valid Authorization Stamp is
-   **constitutionally null and void**, regardless of technical feasibility,
+   is treated as non-compliant with the ICBC governance framework and subject to institutional remediation, regardless of technical feasibility,
    emergency context, or majority approval.
 
 4. Execution engines, APIs, smart contracts, and AI systems are
