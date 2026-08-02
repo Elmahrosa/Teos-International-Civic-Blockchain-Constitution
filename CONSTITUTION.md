@@ -110,7 +110,7 @@ No proposal may bypass any stage.
 4. Validator vote (**⅔ supermajority required**)
 5. Immutable logging **prior to execution**
 
-Execution without logging is **constitutionally void**.
+Execution without logging is considered non-compliant with the ICBC governance procedures.
 
 ---
 
@@ -223,7 +223,7 @@ Signed under one sovereign charter.
    c. Passed mandatory governance and safety controls  
 
 3. Any execution lacking a valid Authorization Stamp is
-   **constitutionally null and void**, regardless of technical feasibility,
+   is treated as non-compliant with the ICBC governance framework and subject to institutional remediation, regardless of technical feasibility,
    emergency context, or majority approval.
 
 4. Execution engines, APIs, smart contracts, and AI systems are

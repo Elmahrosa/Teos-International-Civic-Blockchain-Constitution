@@ -105,7 +105,7 @@ Amendments to the ICBC are permitted **only** if ALL conditions are met:
 3. New hashes are generated and recorded in this Registry  
 4. The Repository Lock is reaffirmed  
 
-Any change outside this process is **constitutionally void**.
+Changes made outside this process are considered non-compliant with the declared amendment procedures and will be treated as non-canonical.
 
 ---
 
