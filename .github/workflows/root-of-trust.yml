@@ -39,6 +39,12 @@ jobs:
           fi
 
           echo "== sha256sum verification =="
+
+          echo "== Runner computed sha256 for Root-of-Trust files =="
+          sha256sum REPO_LOCK.md CONSTITUTION.md docs/AUTHORITY-CHAIN.md LICENSE.md || true
+          echo "== Expected entries in HASHES.sha256 =="
+          cat HASHES.sha256 || true
+
           sha256sum -c HASHES.sha256
 
       - name: Mirror sanity check (docs/CONSTITUTION.md should differ)
