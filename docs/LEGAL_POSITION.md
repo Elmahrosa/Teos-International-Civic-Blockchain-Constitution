@@ -1,4 +1,6 @@
 # Legal Position
+This document provides interpretive guidance for public readers. It does not modify or supersede the Elmahrosa Constitution (CONSTITUTION.md).
+
 ## Interpretation of the Elmahrosa Constitution (ICBC)
 
 Version: 1.0 Draft  
