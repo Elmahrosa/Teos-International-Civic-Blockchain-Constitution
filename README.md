@@ -29,6 +29,10 @@ The Constitution provides a structured approach to digital trust, institutional 
 
 ## ⚖️ Governance & Legal Position
 
+For guidance on the interpretation of governance terminology used throughout this repository, see [docs/LEGAL_POSITION.md](docs/LEGAL_POSITION.md).
+
+
+
 To preserve institutional integrity and regulatory clarity, the ICBC operates under the following strict postures:
 
 ### 1. No Implied Government Endorsement
